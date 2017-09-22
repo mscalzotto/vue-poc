@@ -1,33 +1,34 @@
 <template>
   <div id="app">
-    <Header></Header>
+    <h1>{{ counter }}</h1>
+    <AmHeader></AmHeader>
     <Research></Research>
     <Breadcrumb></Breadcrumb>
-    <Map></Map>
+    <Maps></Maps>
     <Filters></Filters>
     <Results></Results>
-    <Footer></Footer>
+    <AmFooter></AmFooter>
   </div>
 </template>
 
 <script>
-  import Map from './components/Map'
+  import Maps from './components/Maps'
   import Breadcrumb from './components/Breadcrumb'
   import Filters from './components/Filters'
-  import Header from './components/Header'
+  import AmHeader from './components/AmHeader'
   import Research from './components/Research'
   import Results from './components/Results'
-  import Footer from './components/Footer'
+  import AmFooter from './components/AmFooter'
 
   export default {
-    name: 'Main',
+    name: 'AmMain',
     components: {
       Results,
-      Map,
+      Maps,
       Filters,
-      Header,
+      AmHeader,
       Research,
-      Footer,
+      AmFooter,
       Breadcrumb
     }
   }

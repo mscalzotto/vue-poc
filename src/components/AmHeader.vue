@@ -1,13 +1,13 @@
 <template>
-  <div id="map">
-    <p>Map</p>
+  <div id="header">
+    <p>Header</p>
   </div>
 </template>
 
 <script>
   export default {
-    name: 'Map',
-    template: '<Map/>',
+    name: 'AmHeader',
+    template: '<AmHeader/>',
     props: []
   }
 </script>
