@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <h1>{{ counter }}</h1>
     <AmHeader></AmHeader>
     <Research></Research>
     <Breadcrumb></Breadcrumb>
@@ -34,6 +33,8 @@
   }
 </script>
 
-<style scoped>
-
+<style>
+  body {
+    margin: 0;
+  }
 </style>
