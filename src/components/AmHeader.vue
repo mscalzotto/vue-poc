@@ -1,5 +1,6 @@
 <template>
   <div id="header">
+    {{ getLinks }}
     <header class="header">
       <div class="header-background">
         <div class="header-container">
@@ -52,10 +53,17 @@
 </template>
 
 <script>
+  import { mapGetters } from 'vuex'
+
   export default {
     name: 'AmHeader',
     template: '<AmHeader/>',
-    props: []
+    props: [],
+    computed: {
+      ...mapGetters('./modules/Header', [
+        'getLinks'
+      ])
+    }
   }
 </script>
 

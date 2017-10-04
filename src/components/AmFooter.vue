@@ -8,7 +8,7 @@
   export default {
     name: 'Footer',
     template: '<Footer/>',
-    props: []
+    props: {}
   }
 </script>
 
