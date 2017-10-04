@@ -1,12 +1,12 @@
-<template>
-  <div id="app">
-    <AmHeader></AmHeader>
-    <Research></Research>
-    <Breadcrumb></Breadcrumb>
-    <Maps></Maps>
-    <Filters></Filters>
-    <Results></Results>
-    <AmFooter></AmFooter>
+<template lang="pug">
+  #app
+    am-header
+    research
+    breadcrumb
+    maps
+    filters
+    results
+    am-footer
   </div>
 </template>
 
@@ -33,7 +33,7 @@
   }
 </script>
 
-<style>
+<style lang="scss" scoped>
   body {
     margin: 0;
   }
