@@ -2,7 +2,7 @@
   "name": "vue-trello",
   "version": "1.0.0",
   "description": "Trello clone with Vue and Vuex",
-  "author": "Carlos Azaustre <cazaustre@gmail.com>",
+  "author": "Oscar Caceres <caceres.oscar7@gmail.com>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
