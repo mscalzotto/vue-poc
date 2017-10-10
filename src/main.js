@@ -1,38 +1,19 @@
-// The Vue build version to load with the `import` command
-// (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 import Vue from 'vue'
-import Vuex from 'vuex'
-import AmMain from './AmMain'
+import { sync } from 'vuex-router-sync'
 
-Vue.use(Vuex)
+import App from './App'
+import router from './router'
+import store from './store'
+
 Vue.config.productionTip = false
 
-const store = new Vuex.Store({
-  state: {
-    count: 0
-  },
-  mutations: {
-    increment (state) {
-      state.counter++
-    }
-  }
-})
+sync(store, router)
 
 /* eslint-disable no-new */
-const App = new Vue({
+new Vue({
   el: '#app',
-  name: 'AmMain',
-  template: '<AmMain/>',
-  store,
-  components: { AmMain },
-  created: function () {
-    console.log(this)
-  },
-  computed: {
-    counter: function () {
-      return this.$store.state.counter
-    }
-  }
+  template: '<App/>',
+  components: { App },
+  router,
+  store
 })
-
-App.$mount('#app')
