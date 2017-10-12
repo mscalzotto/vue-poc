@@ -1,0 +1,5112 @@
+[{
+    "id": "48998",
+    "name": "Regente",
+    "slug": "regente-48998",
+    "stars": 3,
+    "position": [40.41968, -3.70424],
+    "image": "//images.almundo.com/201/1000000/600000/597700/597669/597669_69_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1304.66,
+      "code": "ARS"
+    },
+    "recommended": true,
+    "hotel_chain": ""
+  }, {
+    "id": "46893",
+    "name": "Espahotel Gran Via 65",
+    "slug": "espahotel-gran-via-65-46893",
+    "stars": 3,
+    "position": [40.42267, -3.70992],
+    "image": "//images.almundo.com/201/1000000/70000/64100/64013/64013_44_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1363.03,
+      "code": "ARS"
+    },
+    "recommended": true,
+    "hotel_chain": ""
+  }, {
+    "id": "76921",
+    "name": "Petit Palace Plaza España",
+    "slug": "petit-palace-plaza-espa-a-76921",
+    "stars": 4,
+    "position": [40.42088, -3.70824],
+    "image": "//images.almundo.com/201/2000000/1470000/1466600/1466559/1466559_113_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1679.51,
+      "code": "ARS"
+    },
+    "recommended": true,
+    "hotel_chain": ""
+  }, {
+    "id": "2397",
+    "name": "Meliá Avenida América",
+    "slug": "meli-avenida-am-rica-2397",
+    "stars": 4,
+    "position": [40.44773, -3.6282],
+    "image": "//images.almundo.com/201/1000000/50000/48900/48884/48884_189_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1782.33,
+      "code": "ARS"
+    },
+    "recommended": true,
+    "hotel_chain": ""
+  }, {
+    "id": "12119",
+    "name": "Hotel Emperador",
+    "slug": "hotel-emperador-12119",
+    "stars": 5,
+    "position": [40.42156, -3.70804],
+    "image": "//images.almundo.com/201/1000000/10000/1000/915/915_241_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 3183.02,
+      "code": "ARS"
+    },
+    "recommended": true,
+    "hotel_chain": ""
+  }, {
+    "id": "106662",
+    "name": "Iberostar Las Letras Gran Via",
+    "slug": "iberostar-las-letras-gran-via-106662",
+    "stars": 4,
+    "position": [40.41969, -3.69958],
+    "image": "//images.almundo.com/201/2000000/1070000/1065700/1065617/d1c225a1_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 3459.87,
+      "code": "ARS"
+    },
+    "recommended": true,
+    "hotel_chain": ""
+  }, {
+    "id": "367172",
+    "name": "U Hostels",
+    "slug": "u-hostels-367172",
+    "stars": 2,
+    "position": [40.4281, -3.69807],
+    "image": "//images.almundo.com/201/6000000/5470000/5463100/5463070/5463070_2_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1396.59,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "49317",
+    "name": "Hotel Vía Castellana",
+    "slug": "hotel-v-a-castellana-49317",
+    "stars": 4,
+    "position": [40.46836, -3.68832],
+    "image": "//images.almundo.com/201/1000000/10000/7600/7531/7531_153_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1027.45,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "47015",
+    "name": "NH Madrid Balboa",
+    "slug": "nh-madrid-balboa-47015",
+    "stars": 3,
+    "position": [40.43605, -3.68189],
+    "image": "//images.almundo.com/201/1000000/530000/523300/523274/523274_101_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1677.55,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "99499",
+    "name": "Hospes Puerta de Alcalá",
+    "slug": "hospes-puerta-de-alcal--99499",
+    "stars": 5,
+    "position": [40.42026, -3.68911],
+    "image": "//images.almundo.com/201/2000000/1770000/1766400/1766365/1766365_52_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 3983.95,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "52053",
+    "name": "NH Madrid Ventas",
+    "slug": "nh-madrid-ventas-52053",
+    "stars": 4,
+    "position": [40.43528, -3.66403],
+    "image": "//images.almundo.com/201/1000000/530000/523400/523318/523318_202_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1572.59,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "24370",
+    "name": "Wellington Hotel",
+    "slug": "wellington-hotel-24370",
+    "stars": 5,
+    "position": [40.42228, -3.68439],
+    "image": "//images.almundo.com/201/1000000/20000/10100/10030/10030_286_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 3690.49,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "505022",
+    "name": "Apartamentos Good Stay Atocha",
+    "slug": "apartamentos-good-stay-atocha-505022",
+    "stars": 2,
+    "position": [40.41064, -3.69816],
+    "image": "//images.almundo.com/201/11000000/10040000/10030100/10030014/10030014_24_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 901.61,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210782",
+    "name": "Hostal Luz Madrid",
+    "slug": "hostal-luz-madrid-210782",
+    "stars": 2,
+    "position": [40.4174, -3.70865],
+    "image": "//images.almundo.com/201/5000000/4120000/4118400/4118322/4118322_157_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 943.56,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "365546",
+    "name": "Eurostars Hotel Plaza Mayor",
+    "slug": "eurostars-hotel-plaza-mayor-365546",
+    "stars": 4,
+    "position": [40.41298, -3.70388],
+    "image": "//images.almundo.com/201/6000000/5950000/5947000/5946929/56eb9ea4_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1300.02,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "74647",
+    "name": "Hotel Paseo del Arte",
+    "slug": "hotel-paseo-del-arte-74647",
+    "stars": 4,
+    "position": [40.40979, -3.6937],
+    "image": "//images.almundo.com/201/1000000/10000/4200/4159/4159_79_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2201.62,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "47126",
+    "name": "Senator Barajas",
+    "slug": "senator-barajas-47126",
+    "stars": 4,
+    "position": [40.45858, -3.58231],
+    "image": "//images.almundo.com/201/1000000/20000/17300/17281/17281_60_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1363.03,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210682",
+    "name": "Hostal Suites Alhambra",
+    "slug": "hostal-suites-alhambra-210682",
+    "stars": 3,
+    "position": [40.41604, -3.70243],
+    "image": "//images.almundo.com/201/6000000/5140000/5136800/5136724/5136724_38_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1153.29,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "30806",
+    "name": "Hotel Intur Palacio San Martin",
+    "slug": "hotel-intur-palacio-san-martin-30806",
+    "stars": 4,
+    "position": [40.41853, -3.70691],
+    "image": "//images.almundo.com/201/1000000/810000/804800/804778/804778_104_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1593.65,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "47127",
+    "name": "TRYP Madrid Atocha Hotel",
+    "slug": "tryp-madrid-atocha-hotel-47127",
+    "stars": 4,
+    "position": [40.41162, -3.69763],
+    "image": "//images.almundo.com/201/1000000/900000/890700/890645/890645_182_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1656.48,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "47369",
+    "name": "Petit Palace Opera",
+    "slug": "petit-palace-opera-47369",
+    "stars": 3,
+    "position": [40.4172, -3.70641],
+    "image": "//images.almundo.com/201/2000000/1070000/1061400/1061314/1061314_109_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1394.45,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "49302",
+    "name": "Aparthotel Ramón de la Cruz 41",
+    "slug": "aparthotel-ram-n-de-la-cruz-41-49302",
+    "stars": 2,
+    "position": [40.42894, -3.68039],
+    "image": "//images.almundo.com/201/3000000/2390000/2380300/2380233/2380233_77_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1363.03,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "19475",
+    "name": "Hotel Principe Pio",
+    "slug": "hotel-principe-pio-19475",
+    "stars": 3,
+    "position": [40.42103, -3.71457],
+    "image": "//images.almundo.com/201/1000000/570000/561900/561845/561845_55_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1396.59,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "74883",
+    "name": "Room Mate Alicia",
+    "slug": "room-mate-alicia-74883",
+    "stars": 3,
+    "position": [40.41453, -3.70005],
+    "image": "//images.almundo.com/201/2000000/1470000/1463200/1463142/1463142_125_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1656.48,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "23057",
+    "name": "The Westin Palace, Madrid",
+    "slug": "the-westin-palace-madrid-23057",
+    "stars": 5,
+    "position": [40.41563, -3.69571],
+    "image": "//images.almundo.com/201/1000000/20000/11000/10975/10975_473_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 5051.38,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "74882",
+    "name": "Occidental Madrid Este",
+    "slug": "occidental-madrid-este-74882",
+    "stars": 4,
+    "position": [40.43416, -3.63052],
+    "image": "//images.almundo.com/201/2000000/1380000/1370800/1370780/1370780_65_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1992.06,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "74881",
+    "name": "Room Mate Mario",
+    "slug": "room-mate-mario-74881",
+    "stars": 2,
+    "position": [40.41886, -3.7094],
+    "image": "//images.almundo.com/201/2000000/1470000/1463200/1463144/1463144_64_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1404.8,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "52063",
+    "name": "Hotel Francisco I",
+    "slug": "hotel-francisco-i-52063",
+    "stars": 2,
+    "position": [40.41752, -3.70756],
+    "image": "//images.almundo.com/201/2000000/1580000/1577100/1577055/1577055_39_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1237.19,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "60488",
+    "name": "Urban",
+    "slug": "urban-60488",
+    "stars": 5,
+    "position": [40.41652, -3.69868],
+    "image": "//images.almundo.com/201/2000000/1070000/1062500/1062405/1062405_107_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 4036.43,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "50321",
+    "name": "Apartamentos Tribunal",
+    "slug": "apartamentos-tribunal-50321",
+    "stars": 3,
+    "position": [40.42549, -3.7012],
+    "image": "//images.almundo.com/201/1000000/580000/571400/571341/571341_45_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1132.23,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "36113",
+    "name": "Hotel ILUNION Suites Madrid",
+    "slug": "hotel-ilunion-suites-madrid-36113",
+    "stars": 4,
+    "position": [40.4477, -3.66894],
+    "image": "//images.almundo.com/201/1000000/880000/874200/874154/874154_347_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1245.58,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210675",
+    "name": "Hostal Abami II",
+    "slug": "hostal-abami-ii-210675",
+    "stars": 2,
+    "position": [40.42329, -3.70753],
+    "image": "//images.almundo.com/201/3000000/2960000/2959500/2959487/2959487_13_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1056.72,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "47123",
+    "name": "Meliá Barajas",
+    "slug": "meli-barajas-47123",
+    "stars": 4,
+    "position": [40.46953, -3.58145],
+    "image": "//images.almundo.com/201/1000000/20000/14800/14705/14705_202_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1782.33,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210672",
+    "name": "Hostel A Nuestra Señora de la Paloma",
+    "slug": "hostel-a-nuestra-se-ora-de-la-paloma-210672",
+    "stars": 2,
+    "position": [40.41566, -3.70526],
+    "image": "//images.almundo.com/201/3000000/2700000/2691900/2691860/2691860_29_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 923.74,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "80073",
+    "name": "Anaco Hotel",
+    "slug": "anaco-hotel-80073",
+    "stars": 3,
+    "position": [40.41912, -3.70324],
+    "image": "//images.almundo.com/201/1000000/130000/127500/127412/127412_224_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1321.08,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "90100",
+    "name": "Hostal Marlasca",
+    "slug": "hostal-marlasca-90100",
+    "stars": 2,
+    "position": [40.4155, -3.7019],
+    "image": "//images.almundo.com/201/2000000/1170000/1165500/1165495/1165495_125_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1006.57,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "49537",
+    "name": "NH Madrid Príncipe de Vergara",
+    "slug": "nh-madrid-pr-ncipe-de-vergara-49537",
+    "stars": 4,
+    "position": [40.43674, -3.67917],
+    "image": "//images.almundo.com/201/1000000/530000/523400/523327/523327_161_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1572.59,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "13583",
+    "name": "Hotel ibis Styles Madrid Prado",
+    "slug": "hotel-ibis-styles-madrid-prado-13583",
+    "stars": 3,
+    "position": [40.4148, -3.69886],
+    "image": "//images.almundo.com/201/1000000/880000/874200/874157/874157_63_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1866.22,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "49414",
+    "name": "Barrio de Salamanca Suites",
+    "slug": "barrio-de-salamanca-suites-49414",
+    "stars": 4,
+    "position": [40.43627, -3.68562],
+    "image": "//images.almundo.com/201/1000000/900000/898800/898789/898789_37_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1845.16,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "363393",
+    "name": "One Shot Prado 23",
+    "slug": "one-shot-prado-23-363393",
+    "stars": 3,
+    "position": [40.41505, -3.69811],
+    "image": "//images.almundo.com/201/6000000/5800000/5793100/5793040/5793040_40_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1446.75,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "47234",
+    "name": "Vincci Capitol",
+    "slug": "vincci-capitol-47234",
+    "stars": 4,
+    "position": [40.42061, -3.70657],
+    "image": "//images.almundo.com/201/1000000/20000/17900/17837/17837_143_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1614.54,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "90105",
+    "name": "Hotel Ganivet",
+    "slug": "hotel-ganivet-90105",
+    "stars": 3,
+    "position": [40.40824, -3.71085],
+    "image": "//images.almundo.com/201/2000000/1910000/1901800/1901714/1901714_5_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1572.59,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "60808",
+    "name": "Artiem Madrid",
+    "slug": "artiem-madrid-60808",
+    "stars": 4,
+    "position": [40.44287, -3.64816],
+    "image": "//images.almundo.com/201/1000000/590000/582700/582636/582636_198_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1593.65,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "49653",
+    "name": "Novotel Madrid Campo de las Naciones",
+    "slug": "novotel-madrid-campo-de-las-naciones-49653",
+    "stars": 4,
+    "position": [40.46233, -3.61442],
+    "image": "//images.almundo.com/201/1000000/10000/3300/3260/3260_156_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1950.12,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "86884",
+    "name": "Vincci Vía 66",
+    "slug": "vincci-v-a-66-86884",
+    "stars": 4,
+    "position": [40.42235, -3.70914],
+    "image": "//images.almundo.com/201/2000000/1710000/1710000/1709915/1709915_116_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1614.54,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "49408",
+    "name": "Hotel Eurostars Monte Real",
+    "slug": "hotel-eurostars-monte-real-49408",
+    "stars": 4,
+    "position": [40.47492, -3.74259],
+    "image": "//images.almundo.com/201/2000000/1220000/1210400/1210381/0574b63a_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 943.56,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "47348",
+    "name": "AC Hotel Carlton Madrid by Marriott",
+    "slug": "ac-hotel-carlton-madrid-by-marriott-47348",
+    "stars": 4,
+    "position": [40.40514, -3.69346],
+    "image": "//images.almundo.com/201/1000000/10000/3700/3691/3691_125_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1556.88,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "23398",
+    "name": "TRYP Madrid Cibeles Hotel",
+    "slug": "tryp-madrid-cibeles-hotel-23398",
+    "stars": 4,
+    "position": [40.42053, -3.70392],
+    "image": "//images.almundo.com/201/1000000/530000/527500/527480/527480_151_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1992.06,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "62687",
+    "name": "Hotel Clement Barajas",
+    "slug": "hotel-clement-barajas-62687",
+    "stars": 4,
+    "position": [40.47108, -3.58006],
+    "image": "//images.almundo.com/201/2000000/1280000/1271400/1271347/f2e027b0_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1509.76,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "262527",
+    "name": "Hostal El Pilar",
+    "slug": "hostal-el-pilar-262527",
+    "stars": 2,
+    "position": [40.41604, -3.70328],
+    "image": "//images.almundo.com/201/3000000/2690000/2685400/2685388/2685388_53_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1364.64,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "49409",
+    "name": "Hotel Osuna",
+    "slug": "hotel-osuna-49409",
+    "stars": 4,
+    "position": [40.45264, -3.61333],
+    "image": "//images.almundo.com/201/1000000/20000/15900/15882/15882_52_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1037.98,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "122577",
+    "name": "Eurostars Madrid Tower",
+    "slug": "eurostars-madrid-tower-122577",
+    "stars": 5,
+    "position": [40.47626, -3.68706],
+    "image": "//images.almundo.com/201/2000000/1880000/1874400/1874306/1874306_106_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2191.27,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "122574",
+    "name": "Maydrit Hotel",
+    "slug": "maydrit-hotel-122574",
+    "stars": 4,
+    "position": [40.45146, -3.59287],
+    "image": "//images.almundo.com/201/3000000/2210000/2206400/2206360/2206360_100_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1698.43,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "77126",
+    "name": "Room Mate Laura",
+    "slug": "room-mate-laura-77126",
+    "stars": 3,
+    "position": [40.41863, -3.70727],
+    "image": "//images.almundo.com/201/2000000/1520000/1515500/1515468/1515468_160_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1446.75,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "57531",
+    "name": "Petit Palace Triball",
+    "slug": "petit-palace-triball-57531",
+    "stars": 3,
+    "position": [40.42048, -3.70299],
+    "image": "//images.almundo.com/201/2000000/1160000/1152600/1152521/1152521_54_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1679.51,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "122576",
+    "name": "Petit Palace Mayor Plaza",
+    "slug": "petit-palace-mayor-plaza-122576",
+    "stars": 4,
+    "position": [40.41586, -3.70911],
+    "image": "//images.almundo.com/201/3000000/2120000/2118600/2118568/2118568_81_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1371.42,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "23396",
+    "name": "Gran Melia Palacio de los Duques",
+    "slug": "gran-melia-palacio-de-los-duques-23396",
+    "stars": 5,
+    "position": [40.41958, -3.70959],
+    "image": "//images.almundo.com/201/1000000/10000/8600/8556/8556_263_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 5976.01,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "240201",
+    "name": "Hotel Catalonia Atocha",
+    "slug": "hotel-catalonia-atocha-240201",
+    "stars": 4,
+    "position": [40.41173, -3.69788],
+    "image": "//images.almundo.com/201/5000000/4130000/4122100/4122048/4122048_60_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1656.48,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "373411",
+    "name": "Hostal Zamora",
+    "slug": "hostal-zamora-373411",
+    "stars": 2,
+    "position": [40.42095, -3.69985],
+    "image": "//images.almundo.com/201/6000000/5970000/5964800/5964761/5964761_20_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1090.28,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "68673",
+    "name": "Globales Acis & Galatea",
+    "slug": "globales-acis-galatea-68673",
+    "stars": 3,
+    "position": [40.45047, -3.61312],
+    "image": "//images.almundo.com/201/2000000/1160000/1157700/1157680/1157680_62_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1425.86,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "23929",
+    "name": "Hotel Villa Magna",
+    "slug": "hotel-villa-magna-23929",
+    "stars": 5,
+    "position": [40.43004, -3.68881],
+    "image": "//images.almundo.com/201/1000000/20000/16500/16416/16416_57_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 8534.09,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "295671",
+    "name": "THC Tirso Molina Hostel",
+    "slug": "thc-tirso-molina-hostel-295671",
+    "stars": 2,
+    "position": [40.41134, -3.70504],
+    "image": "//images.almundo.com/201/5000000/4820000/4812000/4811992/4811992_15_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1069.4,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "61920",
+    "name": "Petit Palace Embassy Serrano",
+    "slug": "petit-palace-embassy-serrano-61920",
+    "stars": 4,
+    "position": [40.42684, -3.68756],
+    "image": "//images.almundo.com/201/2000000/1170000/1164100/1164028/1164028_74_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1893.53,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "511180",
+    "name": "Sungate One",
+    "slug": "sungate-one-511180",
+    "stars": 2,
+    "position": [40.41862, -3.70463],
+    "image": "//images.almundo.com/201/11000000/10940000/10938000/10937915/10937915_81_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1508.33,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "246430",
+    "name": "Unico Hotel",
+    "slug": "unico-hotel-246430",
+    "stars": 5,
+    "position": [40.42897, -3.68604],
+    "image": "//images.almundo.com/201/3000000/2380000/2373900/2373884/2373884_76_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 4670.64,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "138004",
+    "name": "Apartamentos Sercotel Eurobuilding 2",
+    "slug": "apartamentos-sercotel-eurobuilding-2-138004",
+    "stars": 3,
+    "position": [40.45873, -3.69441],
+    "image": "//images.almundo.com/201/1000000/70000/68800/68712/68712_179_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1399.62,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "49630",
+    "name": "Abba Madrid Hotel",
+    "slug": "abba-madrid-hotel-49630",
+    "stars": 4,
+    "position": [40.43895, -3.67282],
+    "image": "//images.almundo.com/201/1000000/980000/973400/973312/973312_159_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1677.55,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "35463",
+    "name": "Hotel Petit Palace Cliper Gran Vía",
+    "slug": "hotel-petit-palace-cliper-gran-v-a-35463",
+    "stars": 3,
+    "position": [40.41971, -3.70367],
+    "image": "//images.almundo.com/201/1000000/880000/874200/874155/874155_102_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1394.45,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "83937",
+    "name": "Hotel Villa De Barajas",
+    "slug": "hotel-villa-de-barajas-83937",
+    "stars": 3,
+    "position": [40.47295, -3.58203],
+    "image": "//images.almundo.com/201/1000000/30000/27600/27537/27537_43_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1528.68,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "35466",
+    "name": "Vincci Madrid Centrum",
+    "slug": "vincci-madrid-centrum-35466",
+    "stars": 4,
+    "position": [40.4176, -3.69852],
+    "image": "//images.almundo.com/201/1000000/920000/913000/912950/912950_193_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1429.97,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "35465",
+    "name": "Hesperia Madrid",
+    "slug": "hesperia-madrid-35465",
+    "stars": 5,
+    "position": [40.43886, -3.69141],
+    "image": "//images.almundo.com/201/1000000/580000/571700/571666/571666_142_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 3229.07,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "239115",
+    "name": "NH Madrid Ribera del Manzanares",
+    "slug": "nh-madrid-ribera-del-manzanares-239115",
+    "stars": 4,
+    "position": [40.40674, -3.72176],
+    "image": "//images.almundo.com/201/5000000/4110000/4101800/4101730/4101730_135_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1572.59,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "63201",
+    "name": "Petit Palace President Castellana",
+    "slug": "petit-palace-president-castellana-63201",
+    "stars": 4,
+    "position": [40.42934, -3.68858],
+    "image": "//images.almundo.com/201/2000000/1220000/1214500/1214470/1214470_67_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1599.9,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "63203",
+    "name": "Catalonia Goya",
+    "slug": "catalonia-goya-63203",
+    "stars": 4,
+    "position": [40.42507, -3.68214],
+    "image": "//images.almundo.com/201/2000000/1270000/1265700/1265674/1265674_113_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1572.59,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "201894",
+    "name": "Hotel Madrisol",
+    "slug": "hotel-madrisol-201894",
+    "stars": 3,
+    "position": [40.41586, -3.70121],
+    "image": "//images.almundo.com/201/4000000/3460000/3453800/3453734/3453734_22_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1132.23,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "82761",
+    "name": "Madrid Motion Hostel",
+    "slug": "madrid-motion-hostel-82761",
+    "stars": 2,
+    "position": [40.41924, -3.70459],
+    "image": "//images.almundo.com/201/1000000/60000/54500/54491/54491_82_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 800.93,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "82763",
+    "name": "AC Hotel Madrid Feria by Marriott",
+    "slug": "ac-hotel-madrid-feria-by-marriott-82763",
+    "stars": 4,
+    "position": [40.47463, -3.63454],
+    "image": "//images.almundo.com/201/2000000/1620000/1618700/1618677/1618677_105_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1729.85,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "236079",
+    "name": "Hotel Pullman Madrid Airport & Feria",
+    "slug": "hotel-pullman-madrid-airport-feria-236079",
+    "stars": 4,
+    "position": [40.46209, -3.61574],
+    "image": "//images.almundo.com/201/1000000/10000/5000/4942/4942_160_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1803.21,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "60624",
+    "name": "H10 Puerta de Alcalá",
+    "slug": "h10-puerta-de-alcal--60624",
+    "stars": 4,
+    "position": [40.42232, -3.6812],
+    "image": "//images.almundo.com/201/1000000/530000/523300/523266/523266_150_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2411.36,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "205356",
+    "name": "Hostal Astoria",
+    "slug": "hostal-astoria-205356",
+    "stars": 2,
+    "position": [40.41305, -3.69784],
+    "image": "//images.almundo.com/201/3000000/2690000/2685300/2685248/2685248_25_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 817.71,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "60623",
+    "name": "AC Hotel Coslada Aeropuerto by Marriott",
+    "slug": "ac-hotel-coslada-aeropuerto-by-marriott-60623",
+    "stars": 4,
+    "position": [40.44501, -3.54087],
+    "image": "//images.almundo.com/201/2000000/1320000/1312800/1312721/1312721_111_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1499.23,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "12101",
+    "name": "NH Alonso Martínez",
+    "slug": "nh-alonso-mart-nez-12101",
+    "stars": 3,
+    "position": [40.42871, -3.69608],
+    "image": "//images.almundo.com/201/1000000/530000/523300/523297/523297_103_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1572.59,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "50829",
+    "name": "Silken Torre Garden",
+    "slug": "silken-torre-garden-50829",
+    "stars": 3,
+    "position": [40.41933, -3.62511],
+    "image": "//images.almundo.com/201/2000000/1050000/1041900/1041844/1041844_72_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1337.86,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "60629",
+    "name": "Hotel Nuevo Madrid",
+    "slug": "hotel-nuevo-madrid-60629",
+    "stars": 4,
+    "position": [40.46958, -3.66911],
+    "image": "//images.almundo.com/201/2000000/1170000/1162100/1162008/1162008_41_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1069.4,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "60628",
+    "name": "Quo Eraso Aparthotel",
+    "slug": "quo-eraso-aparthotel-60628",
+    "stars": 3,
+    "position": [40.43397, -3.6718],
+    "image": "//images.almundo.com/201/1000000/530000/521000/520965/520965_32_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1279.14,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "13408",
+    "name": "Hotel Gran Versalles",
+    "slug": "hotel-gran-versalles-13408",
+    "stars": 4,
+    "position": [40.42835, -3.69721],
+    "image": "//images.almundo.com/201/1000000/30000/25700/25620/25620_23_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1336.79,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "60514",
+    "name": "AC Palacio Del Retiro, Autograph Collection",
+    "slug": "ac-palacio-del-retiro-autograph-collection-60514",
+    "stars": 5,
+    "position": [40.41769, -3.68896],
+    "image": "//images.almundo.com/201/2000000/1140000/1140000/1139951/1139951_92_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 5766.27,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267291",
+    "name": "Hostal Nersan",
+    "slug": "hostal-nersan-267291",
+    "stars": 2,
+    "position": [40.42225, -3.7098],
+    "image": "//images.almundo.com/201/3000000/2490000/2484700/2484612/2484612_48_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 796.83,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "504695",
+    "name": "Hostel Era",
+    "slug": "hostel-era-504695",
+    "stars": 2,
+    "position": [40.425, -3.70057],
+    "image": "//images.almundo.com/201/11000000/10620000/10611200/10611101/10611101_3_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 457.14,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "60631",
+    "name": "San Lorenzo",
+    "slug": "san-lorenzo-60631",
+    "stars": 3,
+    "position": [40.42048, -3.69935],
+    "image": "//images.almundo.com/201/2000000/1070000/1062800/1062757/1062757_81_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 849.31,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "60630",
+    "name": "Hotel Mirador de Chamartin",
+    "slug": "hotel-mirador-de-chamartin-60630",
+    "stars": 4,
+    "position": [40.48313, -3.67094],
+    "image": "//images.almundo.com/201/1000000/700000/694700/694623/694623_70_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1425.86,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "21818",
+    "name": "Mercure Madrid Plaza de Espana",
+    "slug": "mercure-madrid-plaza-de-espana-21818",
+    "stars": 4,
+    "position": [40.42567, -3.7137],
+    "image": "//images.almundo.com/201/1000000/10000/400/339/2ef24a94_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2180.74,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "57906",
+    "name": "Hotel Plaza Mayor",
+    "slug": "hotel-plaza-mayor-57906",
+    "stars": 2,
+    "position": [40.41479, -3.70561],
+    "image": "//images.almundo.com/201/3000000/2530000/2527500/2527497/2527497_20_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1153.29,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267298",
+    "name": "8Rooms Madrid",
+    "slug": "8rooms-madrid-267298",
+    "stars": 3,
+    "position": [40.40683, -3.68295],
+    "image": "//images.almundo.com/201/5000000/4940000/4936800/4936754/4936754_14_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 802.01,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "19509",
+    "name": "Hotel Puerta de Toledo",
+    "slug": "hotel-puerta-de-toledo-19509",
+    "stars": 3,
+    "position": [40.40647, -3.71202],
+    "image": "//images.almundo.com/201/1000000/60000/54500/54498/54498_104_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1677.55,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267292",
+    "name": "Hostal Gala",
+    "slug": "hostal-gala-267292",
+    "stars": 1,
+    "position": [40.41975, -3.70795],
+    "image": "//images.almundo.com/201/4000000/3530000/3525700/3525699/3525699_44_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1048.34,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "49273",
+    "name": "NH Madrid Paseo de la Habana",
+    "slug": "nh-madrid-paseo-de-la-habana-49273",
+    "stars": 4,
+    "position": [40.45583, -3.68166],
+    "image": "//images.almundo.com/201/1000000/530000/523300/523300/523300_113_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1446.75,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "50834",
+    "name": "NH Collection Paseo del Prado",
+    "slug": "nh-collection-paseo-del-prado-50834",
+    "stars": 5,
+    "position": [40.41492, -3.69464],
+    "image": "//images.almundo.com/201/2000000/1910000/1903400/1903400/1903400_222_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 3334.21,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "16485",
+    "name": "Best Western Hotel Los Condes",
+    "slug": "best-western-hotel-los-condes-16485",
+    "stars": 3,
+    "position": [40.42185, -3.70648],
+    "image": "//images.almundo.com/201/1000000/900000/894500/894468/894468_203_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1237.19,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "49269",
+    "name": "AC Hotel Cuzco by Marriott",
+    "slug": "ac-hotel-cuzco-by-marriott-49269",
+    "stars": 4,
+    "position": [40.45904, -3.69115],
+    "image": "//images.almundo.com/201/1000000/30000/21300/21276/21276_109_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2283.38,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "48617",
+    "name": "Agumar Hotel",
+    "slug": "agumar-hotel-48617",
+    "stars": 4,
+    "position": [40.4068, -3.68314],
+    "image": "//images.almundo.com/201/1000000/60000/54500/54492/54492_78_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1354.64,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210714",
+    "name": "Hostal Castilla I",
+    "slug": "hostal-castilla-i-210714",
+    "stars": 2,
+    "position": [40.41332, -3.70112],
+    "image": "//images.almundo.com/201/3000000/2700000/2690400/2690313/2690313_91_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 926.42,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210719",
+    "name": "Hostal Comercial",
+    "slug": "hostal-comercial-210719",
+    "stars": 1,
+    "position": [40.41563, -3.70528],
+    "image": "//images.almundo.com/201/5000000/4940000/4936800/4936799/4936799_36_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 817.71,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "2398",
+    "name": "Meliá Castilla",
+    "slug": "meli-castilla-2398",
+    "stars": 4,
+    "position": [40.46119, -3.6918],
+    "image": "//images.almundo.com/201/1000000/10000/6100/6066/6066_359_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2621.1,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "527468",
+    "name": "Hostal Sil & Serranos",
+    "slug": "hostal-sil-serranos-527468",
+    "stars": 2,
+    "position": [40.42711, -3.70164],
+    "image": "//images.almundo.com/201/7000000/6050000/6043800/6043759/6043759_21_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1237.19,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267285",
+    "name": "Hostal Regio",
+    "slug": "hostal-regio-267285",
+    "stars": 2,
+    "position": [40.4195, -3.70384],
+    "image": "//images.almundo.com/201/5000000/4420000/4417500/4417485/4417485_45_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 922.67,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "49142",
+    "name": "Zenit Conde de Orgaz",
+    "slug": "zenit-conde-de-orgaz-49142",
+    "stars": 4,
+    "position": [40.45715, -3.64751],
+    "image": "//images.almundo.com/201/1000000/20000/14200/14148/14148_95_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1153.29,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "49384",
+    "name": "Espahotel Plaza Basílica",
+    "slug": "espahotel-plaza-bas-lica-49384",
+    "stars": 3,
+    "position": [40.44957, -3.69835],
+    "image": "//images.almundo.com/201/1000000/570000/562100/562041/562041_33_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1258.07,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "527460",
+    "name": "Hostal Prado",
+    "slug": "hostal-prado-527460",
+    "stars": 2,
+    "position": [40.41515, -3.70133],
+    "image": "//images.almundo.com/201/6000000/5470000/5460200/5460111/5460111_1_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1006.57,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "25968",
+    "name": "H10 Villa de la Reina Boutique Hotel",
+    "slug": "h10-villa-de-la-reina-boutique-hotel-25968",
+    "stars": 4,
+    "position": [40.41992, -3.7003],
+    "image": "//images.almundo.com/201/1000000/850000/849500/849469/849469_127_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1782.33,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "16450",
+    "name": "Petit Palace Londres",
+    "slug": "petit-palace-londres-16450",
+    "stars": 3,
+    "position": [40.41806, -3.70433],
+    "image": "//images.almundo.com/201/1000000/670000/660200/660102/660102_156_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1490.84,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "16455",
+    "name": "Mercure Madrid Centro",
+    "slug": "mercure-madrid-centro-16455",
+    "stars": 4,
+    "position": [40.41381, -3.69459],
+    "image": "//images.almundo.com/201/1000000/670000/660200/660104/660104_166_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2075.96,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "295655",
+    "name": "ibis Madrid Centro Las Ventas",
+    "slug": "ibis-madrid-centro-las-ventas-295655",
+    "stars": 2,
+    "position": [40.43056, -3.66408],
+    "image": "//images.almundo.com/201/5000000/4930000/4921200/4921106/4921106_103_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1216.13,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "249832",
+    "name": "Palafox Central Suites",
+    "slug": "palafox-central-suites-249832",
+    "stars": 3,
+    "position": [40.43089, -3.70109],
+    "image": "//images.almundo.com/201/5000000/4870000/4869200/4869175/4869175_38_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2047.58,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "125341",
+    "name": "Hostal Luis XV",
+    "slug": "hostal-luis-xv-125341",
+    "stars": 3,
+    "position": [40.4199, -3.70171],
+    "image": "//images.almundo.com/201/3000000/2940000/2938800/2938748/2938748_8_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1153.29,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210725",
+    "name": "Hostal Continental",
+    "slug": "hostal-continental-210725",
+    "stars": 2,
+    "position": [40.42029, -3.7055],
+    "image": "//images.almundo.com/201/6000000/5470000/5465600/5465541/5465541_2_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 838.78,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "51021",
+    "name": "H10 Tribeca",
+    "slug": "h10-tribeca-51021",
+    "stars": 4,
+    "position": [40.45512, -3.69428],
+    "image": "//images.almundo.com/201/1000000/530000/527300/527231/527231_154_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1698.43,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "188242",
+    "name": "Hotel Mayerling",
+    "slug": "hotel-mayerling-188242",
+    "stars": 2,
+    "position": [40.41351, -3.70474],
+    "image": "//images.almundo.com/201/3000000/2880000/2876500/2876459/2876459_61_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1019.06,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210845",
+    "name": "Hostal Trevinca",
+    "slug": "hostal-trevinca-210845",
+    "stars": 2,
+    "position": [40.42829, -3.69872],
+    "image": "//images.almundo.com/201/3000000/2530000/2521100/2521087/2521087_9_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 913.21,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "504475",
+    "name": "Hostal Maria Cristina",
+    "slug": "hostal-maria-cristina-504475",
+    "stars": 2,
+    "position": [40.42186, -3.701],
+    "image": "//images.almundo.com/201/12000000/11040000/11032700/11032662/11032662_14_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1077.97,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "205021",
+    "name": "Apartosuites Jardines de Sabatini",
+    "slug": "apartosuites-jardines-de-sabatini-205021",
+    "stars": 3,
+    "position": [40.42086, -3.7148],
+    "image": "//images.almundo.com/201/2000000/1280000/1276100/1276024/1276024_148_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2180.74,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267277",
+    "name": "Hostal Numancia",
+    "slug": "hostal-numancia-267277",
+    "stars": 1,
+    "position": [40.41243, -3.70252],
+    "image": "//images.almundo.com/201/5000000/4340000/4335400/4335399/4335399_53_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1048.16,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267276",
+    "name": "Hostal Zabala",
+    "slug": "hostal-zabala-267276",
+    "stars": 1,
+    "position": [40.41237, -3.7011],
+    "image": "//images.almundo.com/201/5000000/4540000/4533400/4533324/4533324_10_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 733.82,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "86364",
+    "name": "HRC Hotel",
+    "slug": "hrc-hotel-86364",
+    "stars": 3,
+    "position": [40.40976, -3.71312],
+    "image": "//images.almundo.com/201/1000000/10000/3600/3519/3519_57_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1107.06,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "50857",
+    "name": "Rafaelhoteles Ventas",
+    "slug": "rafaelhoteles-ventas-50857",
+    "stars": 4,
+    "position": [40.43195, -3.6564],
+    "image": "//images.almundo.com/201/1000000/530000/527800/527794/527794_106_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1383.92,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267257",
+    "name": "THC Latina Hostel",
+    "slug": "thc-latina-hostel-267257",
+    "stars": 2,
+    "position": [40.40916, -3.70567],
+    "image": "//images.almundo.com/201/5000000/4480000/4478900/4478835/4478835_1_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1027.45,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "311080",
+    "name": "One Shot Luchana 22",
+    "slug": "one-shot-luchana-22-311080",
+    "stars": 4,
+    "position": [40.43033, -3.70024],
+    "image": "//images.almundo.com/201/6000000/5790000/5784300/5784203/5784203_106_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1572.59,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267259",
+    "name": "Posada del Dragón",
+    "slug": "posada-del-drag-n-267259",
+    "stars": 4,
+    "position": [40.41309, -3.70853],
+    "image": "//images.almundo.com/201/5000000/4550000/4542300/4542271/4542271_10_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1446.75,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "188245",
+    "name": "Hotel Nuevo Boston",
+    "slug": "hotel-nuevo-boston-188245",
+    "stars": 4,
+    "position": [40.44937, -3.57698],
+    "image": "//images.almundo.com/201/3000000/2470000/2466900/2466861/2466861_184_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1902.81,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "60668",
+    "name": "Eurostars Zarzuela Park",
+    "slug": "eurostars-zarzuela-park-60668",
+    "stars": 3,
+    "position": [40.47048, -3.76869],
+    "image": "//images.almundo.com/201/1000000/990000/981100/981042/981042_16_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1027.45,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "50066",
+    "name": "Relais & Châteaux Hotel Orfila",
+    "slug": "relais-ch-teaux-hotel-orfila-50066",
+    "stars": 5,
+    "position": [40.42736, -3.69322],
+    "image": "//images.almundo.com/201/1000000/580000/571000/570971/570971_126_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 5283.96,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "50065",
+    "name": "Eco Via Lusitana",
+    "slug": "eco-via-lusitana-50065",
+    "stars": 3,
+    "position": [40.37274, -3.74196],
+    "image": "//images.almundo.com/201/1000000/900000/894700/894639/894639_58_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1153.29,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "49367",
+    "name": "Madrid Marriott Auditorium Hotel & Conference Center",
+    "slug": "madrid-marriott-auditorium-hotel-conference-center-49367",
+    "stars": 4,
+    "position": [40.44923, -3.55941],
+    "image": "//images.almundo.com/201/1000000/910000/908900/908863/908863_88_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1677.19,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "496145",
+    "name": "Hostal Centro Sol",
+    "slug": "hostal-centro-sol-496145",
+    "stars": 2,
+    "position": [40.41669, -3.70139],
+    "image": "//images.almundo.com/201/12000000/11300000/11292800/11292783/11292783_5_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1138.12,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "31725",
+    "name": "Hotel Moderno",
+    "slug": "hotel-moderno-31725",
+    "stars": 3,
+    "position": [40.41686, -3.70493],
+    "image": "//images.almundo.com/201/1000000/70000/68800/68719/68719_48_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1761.26,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "228494",
+    "name": "AC Hotel Atocha by Marriott",
+    "slug": "ac-hotel-atocha-by-marriott-228494",
+    "stars": 4,
+    "position": [40.40394, -3.69004],
+    "image": "//images.almundo.com/201/4000000/3620000/3616700/3616659/3616659_90_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2075.96,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210733",
+    "name": "Hostal del Pez Azul",
+    "slug": "hostal-del-pez-azul-210733",
+    "stars": 2,
+    "position": [40.4234, -3.70488],
+    "image": "//images.almundo.com/201/12000000/11480000/11470200/11470160/11470160_10_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1006.57,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "23406",
+    "name": "TRYP Madrid Plaza España",
+    "slug": "tryp-madrid-plaza-espa-a-23406",
+    "stars": 4,
+    "position": [40.4229, -3.71001],
+    "image": "//images.almundo.com/201/1000000/30000/25800/25741/25741_204_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1866.22,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "236460",
+    "name": "Crowne Plaza Madrid Airport",
+    "slug": "crowne-plaza-madrid-airport-236460",
+    "stars": 4,
+    "position": [40.44747, -3.54255],
+    "image": "//images.almundo.com/201/4000000/3750000/3749000/3748948/3748948_378_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1845.16,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "156625",
+    "name": "Hotel Isis",
+    "slug": "hotel-isis-156625",
+    "stars": 3,
+    "position": [40.38874, -3.7002],
+    "image": "//images.almundo.com/201/8000000/7840000/7835900/7835873/7835873_1_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1048.34,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "46882",
+    "name": "Barceló Emperatriz",
+    "slug": "barcel-emperatriz-46882",
+    "stars": 5,
+    "position": [40.43656, -3.68846],
+    "image": "//images.almundo.com/201/1000000/60000/54500/54497/54497_153_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 3124.29,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "156624",
+    "name": "Hotel El Mirador Puerta del Sol",
+    "slug": "hotel-el-mirador-puerta-del-sol-156624",
+    "stars": 2,
+    "position": [40.41753, -3.7029],
+    "image": "//images.almundo.com/201/9000000/8390000/8387100/8387037/8387037_10_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1887.11,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "156627",
+    "name": "Hotel Julia Madrid",
+    "slug": "hotel-julia-madrid-156627",
+    "stars": 3,
+    "position": [40.43416, -3.63256],
+    "image": "//images.almundo.com/201/5000000/4270000/4268200/4268187/4268187_17_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1027.45,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "156626",
+    "name": "Caballero Errante",
+    "slug": "caballero-errante-156626",
+    "stars": 1,
+    "position": [40.46604, -3.69602],
+    "image": "//images.almundo.com/201/2000000/1220000/1218600/1218549/1218549_120_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 943.56,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "156628",
+    "name": "ibis Madrid Valentin Beato",
+    "slug": "ibis-madrid-valentin-beato-156628",
+    "stars": 1,
+    "position": [40.43954, -3.62612],
+    "image": "//images.almundo.com/201/2000000/1680000/1677500/1677416/1677416_194_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1090.28,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "23401",
+    "name": "Gran Melia Fenix",
+    "slug": "gran-melia-fenix-23401",
+    "stars": 5,
+    "position": [40.42654, -3.68932],
+    "image": "//images.almundo.com/201/1000000/20000/19900/19889/19889_386_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 4612.98,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "204744",
+    "name": "Apartamentos Blume Cruz",
+    "slug": "apartamentos-blume-cruz-204744",
+    "stars": 3,
+    "position": [40.41487, -3.70264],
+    "image": "//images.almundo.com/201/3000000/2540000/2536500/2536466/2536466_65_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2011.34,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "23404",
+    "name": "TRYP Madrid Gran Via Hotel",
+    "slug": "tryp-madrid-gran-via-hotel-23404",
+    "stars": 3,
+    "position": [40.42003, -3.70228],
+    "image": "//images.almundo.com/201/1000000/30000/20500/20410/20410_148_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1656.48,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "21106",
+    "name": "Hotel Santo Domingo",
+    "slug": "hotel-santo-domingo-21106",
+    "stars": 4,
+    "position": [40.42063, -3.70835],
+    "image": "//images.almundo.com/201/4000000/3480000/3472200/3472151/3472151_202_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2055.79,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210747",
+    "name": "Hostal Felipe V",
+    "slug": "hostal-felipe-v-210747",
+    "stars": 2,
+    "position": [40.41987, -3.70028],
+    "image": "//images.almundo.com/201/2000000/1390000/1383400/1383399/1383399_35_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1048.34,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210746",
+    "name": "Hostal Excelsior",
+    "slug": "hostal-excelsior-210746",
+    "stars": 2,
+    "position": [40.42078, -3.70671],
+    "image": "//images.almundo.com/201/11000000/10350000/10348100/10348038/10348038_2_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1094.57,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "29741",
+    "name": "Hotel Exe Plaza",
+    "slug": "hotel-exe-plaza-29741",
+    "stars": 4,
+    "position": [40.46727, -3.68939],
+    "image": "//images.almundo.com/201/1000000/530000/527500/527465/527465_27_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1258.07,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "527930",
+    "name": "Hostal Helena 2",
+    "slug": "hostal-helena-2-527930",
+    "stars": 2,
+    "position": [40.42029, -3.70523],
+    "image": "//images.almundo.com/201/6000000/5330000/5326100/5326019/5326019_18_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 637.43,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "49113",
+    "name": "Praga",
+    "slug": "praga-49113",
+    "stars": 4,
+    "position": [40.39399, -3.7078],
+    "image": "//images.almundo.com/201/1000000/50000/47000/46903/46903_76_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1254.68,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "57825",
+    "name": "Hostal Hispano Argentino Gran Via",
+    "slug": "hostal-hispano-argentino-gran-via-57825",
+    "stars": 3,
+    "position": [40.41984, -3.70021],
+    "image": "//images.almundo.com/201/2000000/1650000/1641200/1641177/ec56f506_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1258.07,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "46878",
+    "name": "Ayre Gran Hotel Colon",
+    "slug": "ayre-gran-hotel-colon-46878",
+    "stars": 4,
+    "position": [40.41286, -3.66925],
+    "image": "//images.almundo.com/201/1000000/50000/47000/46910/46910_164_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1509.76,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "156612",
+    "name": "Hotel VP Jardín Metropolitano",
+    "slug": "hotel-vp-jard-n-metropolitano-156612",
+    "stars": 4,
+    "position": [40.44708, -3.7081],
+    "image": "//images.almundo.com/201/2000000/1370000/1367000/1366976/1366976_101_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1264.32,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "156614",
+    "name": "Abalu",
+    "slug": "abalu-156614",
+    "stars": 4,
+    "position": [40.42391, -3.70576],
+    "image": "//images.almundo.com/201/2000000/1760000/1759300/1759287/1759287_104_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1216.13,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "156613",
+    "name": "ibis Madrid Centro",
+    "slug": "ibis-madrid-centro-156613",
+    "stars": 2,
+    "position": [40.42859, -3.70304],
+    "image": "//images.almundo.com/201/2000000/1290000/1286500/1286443/1286443_88_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1488.69,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "240297",
+    "name": "Catalonia Plaza Mayor",
+    "slug": "catalonia-plaza-mayor-240297",
+    "stars": 4,
+    "position": [40.41315, -3.7008],
+    "image": "//images.almundo.com/201/5000000/4110000/4109200/4109134/4109134_29_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1782.33,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "23411",
+    "name": "ME Madrid",
+    "slug": "me-madrid-23411",
+    "stars": 4,
+    "position": [40.41464, -3.70132],
+    "image": "//images.almundo.com/201/1000000/10000/2400/2393/2393_205_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 3669.43,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "204757",
+    "name": "Apartamentos El Tiempo",
+    "slug": "apartamentos-el-tiempo-204757",
+    "stars": 3,
+    "position": [40.41558, -3.70259],
+    "image": "//images.almundo.com/201/7000000/6140000/6136400/6136325/6136325_25_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1363.03,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "23414",
+    "name": "TRYP Madrid Centro Hotel",
+    "slug": "tryp-madrid-centro-hotel-23414",
+    "stars": 3,
+    "position": [40.42288, -3.71],
+    "image": "//images.almundo.com/201/1000000/10000/4200/4199/4199_166_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1782.33,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "40899",
+    "name": "Hotel Petit Palace Ducal Chueca Plus",
+    "slug": "hotel-petit-palace-ducal-chueca-plus-40899",
+    "stars": 3,
+    "position": [40.42028, -3.70105],
+    "image": "//images.almundo.com/201/1000000/920000/913700/913616/913616_89_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1394.45,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "249673",
+    "name": "Dormirdcine Cooltural Rooms",
+    "slug": "dormirdcine-cooltural-rooms-249673",
+    "stars": 4,
+    "position": [40.43631, -3.67931],
+    "image": "//images.almundo.com/201/3000000/2410000/2403900/2403832/a7dfbfd2_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1551.71,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "203672",
+    "name": "4C Puerta Europa",
+    "slug": "4c-puerta-europa-203672",
+    "stars": 2,
+    "position": [40.4651, -3.69327],
+    "image": "//images.almundo.com/201/9000000/8690000/8683600/8683544/8683544_1_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1572.59,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "52026",
+    "name": "TRYP Madrid Chamartin",
+    "slug": "tryp-madrid-chamartin-52026",
+    "stars": 3,
+    "position": [40.47202, -3.68444],
+    "image": "//images.almundo.com/201/1000000/30000/27600/27514/27514_188_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1279.14,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "86374",
+    "name": "Sercotel Suites Viena",
+    "slug": "sercotel-suites-viena-86374",
+    "stars": 3,
+    "position": [40.42492, -3.71499],
+    "image": "//images.almundo.com/201/2000000/1590000/1582100/1582037/1582037_37_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1141.69,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "527384",
+    "name": "Hostal Benamar",
+    "slug": "hostal-benamar-527384",
+    "stars": 3,
+    "position": [40.42573, -3.69898],
+    "image": "//images.almundo.com/201/6000000/5590000/5583000/5582949/5582949_3_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1153.29,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "527383",
+    "name": "Hostal La Macarena",
+    "slug": "hostal-la-macarena-527383",
+    "stars": 2,
+    "position": [40.41466, -3.70811],
+    "image": "//images.almundo.com/201/7000000/6050000/6042900/6042829/6042829_23_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1237.19,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "74616",
+    "name": "Eurostars Suites Mirasierra",
+    "slug": "eurostars-suites-mirasierra-74616",
+    "stars": 5,
+    "position": [40.48668, -3.70391],
+    "image": "//images.almundo.com/201/2000000/1060000/1056900/1056826/1056826_178_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2306.58,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "73887",
+    "name": "Hotel Petit Palace Alcalá Torre",
+    "slug": "hotel-petit-palace-alcal-torre-73887",
+    "stars": 3,
+    "position": [40.41823, -3.69947],
+    "image": "//images.almundo.com/201/2000000/1410000/1402200/1402134/1402134_122_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1773.94,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "73886",
+    "name": "Petit Palace Tres Cruces",
+    "slug": "petit-palace-tres-cruces-73886",
+    "stars": 3,
+    "position": [40.41937, -3.70288],
+    "image": "//images.almundo.com/201/2000000/1410000/1406700/1406695/1406695_178_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1306.27,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "73884",
+    "name": "Hotel Silken Puerta America",
+    "slug": "hotel-silken-puerta-america-73884",
+    "stars": 5,
+    "position": [40.44065, -3.66948],
+    "image": "//images.almundo.com/201/2000000/1200000/1199100/1199013/1199013_147_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2201.62,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "49456",
+    "name": "Petit Palace Madrid Aeropuerto",
+    "slug": "petit-palace-madrid-aeropuerto-49456",
+    "stars": 4,
+    "position": [40.45774, -3.58329],
+    "image": "//images.almundo.com/201/1000000/920000/912600/912536/912536_76_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1302.16,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "208453",
+    "name": "Hotel Don Pio",
+    "slug": "hotel-don-pio-208453",
+    "stars": 4,
+    "position": [40.46274, -3.67612],
+    "image": "//images.almundo.com/201/4000000/3820000/3814100/3814096/3814096_48_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2075.96,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "124296",
+    "name": "NH Madrid Las Tablas",
+    "slug": "nh-madrid-las-tablas-124296",
+    "stars": 4,
+    "position": [40.49806, -3.66447],
+    "image": "//images.almundo.com/201/2000000/1750000/1745200/1745154/1745154_76_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1363.03,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "51181",
+    "name": "Hotel Sercotel Togumar",
+    "slug": "hotel-sercotel-togumar-51181",
+    "stars": 3,
+    "position": [40.44378, -3.67264],
+    "image": "//images.almundo.com/201/1000000/20000/18200/18130/18130_107_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1237.19,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "372745",
+    "name": "Only YOU Boutique Hotel",
+    "slug": "only-you-boutique-hotel-372745",
+    "stars": 4,
+    "position": [40.42224, -3.69564],
+    "image": "//images.almundo.com/201/7000000/6430000/6427300/6427217/7a278c96_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 3879.17,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210768",
+    "name": "La Perla Asturiana Hostal",
+    "slug": "la-perla-asturiana-hostal-210768",
+    "stars": 2,
+    "position": [40.41521, -3.70586],
+    "image": "//images.almundo.com/201/3000000/2700000/2693200/2693194/2693194_41_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 880.72,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "2402",
+    "name": "TRYP Madrid Chamberí Hotel",
+    "slug": "tryp-madrid-chamber-hotel-2402",
+    "stars": 3,
+    "position": [40.43853, -3.70096],
+    "image": "//images.almundo.com/201/1000000/810000/808800/808780/808780_144_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1363.03,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "2400",
+    "name": "Melia Madrid Princesa",
+    "slug": "melia-madrid-princesa-2400",
+    "stars": 5,
+    "position": [40.42731, -3.71391],
+    "image": "//images.almundo.com/201/1000000/20000/11900/11885/11885_396_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 3334.03,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "49455",
+    "name": "AC Hotel Los Vascos by Marriott",
+    "slug": "ac-hotel-los-vascos-by-marriott-49455",
+    "stars": 3,
+    "position": [40.44891, -3.7113],
+    "image": "//images.almundo.com/201/1000000/930000/921500/921479/921479_69_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1429.97,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "49334",
+    "name": "Petit Palace Arturo Soria",
+    "slug": "petit-palace-arturo-soria-49334",
+    "stars": 4,
+    "position": [40.43919, -3.63878],
+    "image": "//images.almundo.com/201/1000000/880000/874200/874156/874156_99_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1302.16,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "47035",
+    "name": "Hotel Quatro Puerta Del Sol",
+    "slug": "hotel-quatro-puerta-del-sol-47035",
+    "stars": 4,
+    "position": [40.41704, -3.70017],
+    "image": "//images.almundo.com/201/1000000/1000000/990600/990556/990556_119_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1453.17,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "137697",
+    "name": "Hotel ILUNION Atrium",
+    "slug": "hotel-ilunion-atrium-137697",
+    "stars": 4,
+    "position": [40.44772, -3.65483],
+    "image": "//images.almundo.com/201/3000000/2210000/2201800/2201729/2201729_196_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1245.58,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "49453",
+    "name": "Holiday Inn Madrid Calle Alcala",
+    "slug": "holiday-inn-madrid-calle-alcala-49453",
+    "stars": 4,
+    "position": [40.43948, -3.63202],
+    "image": "//images.almundo.com/201/1000000/920000/919500/919439/919439_236_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1782.33,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "403406",
+    "name": "Far Home Gran Vía",
+    "slug": "far-home-gran-v-a-403406",
+    "stars": 2,
+    "position": [40.41926, -3.70406],
+    "image": "//images.almundo.com/201/6000000/5590000/5586300/5586274/5586274_44_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1006.57,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210760",
+    "name": "Hostal Josefina",
+    "slug": "hostal-josefina-210760",
+    "stars": 3,
+    "position": [40.42024, -3.70527],
+    "image": "//images.almundo.com/201/4000000/3810000/3801900/3801851/3801851_16_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 934.1,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "49452",
+    "name": "Hotel Serrano by Silken",
+    "slug": "hotel-serrano-by-silken-49452",
+    "stars": 4,
+    "position": [40.43117, -3.6874],
+    "image": "//images.almundo.com/201/1000000/700000/692500/692478/692478_32_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1866.22,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "156630",
+    "name": "SHS Hotel Aeropuerto",
+    "slug": "shs-hotel-aeropuerto-156630",
+    "stars": 3,
+    "position": [40.44953, -3.54876],
+    "image": "//images.almundo.com/201/2000000/1670000/1668500/1668493/1668493_34_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1323.05,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "391592",
+    "name": "Splendom Suites Gran Vía",
+    "slug": "splendom-suites-gran-v-a-391592",
+    "stars": 4,
+    "position": [40.42152, -3.70171],
+    "image": "//images.almundo.com/201/7000000/6940000/6931900/6931885/6931885_5_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1425.86,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "156631",
+    "name": "Hotel Don Luis",
+    "slug": "hotel-don-luis-156631",
+    "stars": 3,
+    "position": [40.4727, -3.57853],
+    "image": "//images.almundo.com/201/2000000/1130000/1128200/1128149/1128149_56_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2096.84,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "156634",
+    "name": "Hotel Quinta de los Cedros",
+    "slug": "hotel-quinta-de-los-cedros-156634",
+    "stars": 4,
+    "position": [40.45967, -3.66313],
+    "image": "//images.almundo.com/201/2000000/1160000/1152500/1152493/1152493_37_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2830.66,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "156635",
+    "name": "Hotel Gran Legazpi",
+    "slug": "hotel-gran-legazpi-156635",
+    "stars": 3,
+    "position": [40.39176, -3.69599],
+    "image": "//images.almundo.com/201/2000000/1190000/1187100/1187089/1187089_25_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1111.35,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "134863",
+    "name": "Hotel Weare Chamartín",
+    "slug": "hotel-weare-chamart-n-134863",
+    "stars": 4,
+    "position": [40.47137, -3.68155],
+    "image": "//images.almundo.com/201/1000000/10000/6500/6444/6444_86_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1467.81,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "23992",
+    "name": "Villa Real Hotel",
+    "slug": "villa-real-hotel-23992",
+    "stars": 5,
+    "position": [40.41556, -3.69696],
+    "image": "//images.almundo.com/201/1000000/530000/527300/527265/527265_171_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2548.63,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "204786",
+    "name": "Hostal Madrid",
+    "slug": "hostal-madrid-204786",
+    "stars": 3,
+    "position": [40.41603, -3.70513],
+    "image": "//images.almundo.com/201/3000000/2470000/2461700/2461657/2461657_53_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1153.29,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "52042",
+    "name": "B&B Hotel Fuencarral 52",
+    "slug": "b-b-hotel-fuencarral-52-52042",
+    "stars": 3,
+    "position": [40.4235, -3.70067],
+    "image": "//images.almundo.com/201/11000000/10030000/10027500/10027401/10027401_36_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1656.48,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "49444",
+    "name": "Hotel T3 Tirol",
+    "slug": "hotel-t3-tirol-49444",
+    "stars": 3,
+    "position": [40.43048, -3.71683],
+    "image": "//images.almundo.com/201/1000000/200000/192400/192359/192359_18_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1507.08,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210773",
+    "name": "Hostal Las Fuentes",
+    "slug": "hostal-las-fuentes-210773",
+    "stars": 2,
+    "position": [40.4174, -3.70865],
+    "image": "//images.almundo.com/201/4000000/3800000/3792500/3792413/3792413_26_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 838.78,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "47266",
+    "name": "Hotel ILUNION Pio XII",
+    "slug": "hotel-ilunion-pio-xii-47266",
+    "stars": 4,
+    "position": [40.4688, -3.67345],
+    "image": "//images.almundo.com/201/1000000/800000/796700/796680/dd4b04fd_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 934.1,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "49442",
+    "name": "Hostal Hispano",
+    "slug": "hostal-hispano-49442",
+    "stars": 2,
+    "position": [40.42192, -3.69991],
+    "image": "//images.almundo.com/201/8000000/7840000/7835900/7835891/7835891_18_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1047.44,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "74619",
+    "name": "Hotel Petit Palace Plaza del Carmen",
+    "slug": "hotel-petit-palace-plaza-del-carmen-74619",
+    "stars": 4,
+    "position": [40.41877, -3.70289],
+    "image": "//images.almundo.com/201/2000000/1430000/1429800/1429755/1429755_139_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1635.6,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "51917",
+    "name": "Hotel ILUNION Alcalá Norte",
+    "slug": "hotel-ilunion-alcal-norte-51917",
+    "stars": 4,
+    "position": [40.43646, -3.62089],
+    "image": "//images.almundo.com/201/2000000/1070000/1065700/1065625/bbd094ad_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 934.1,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "17961",
+    "name": "Leonardo Hotel Madrid City Center",
+    "slug": "leonardo-hotel-madrid-city-center-17961",
+    "stars": 3,
+    "position": [40.42989, -3.70861],
+    "image": "//images.almundo.com/201/1000000/530000/523300/523265/167a28d8_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1237.19,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "111753",
+    "name": "7 Islas Hotel",
+    "slug": "7-islas-hotel-111753",
+    "stars": 4,
+    "position": [40.42127, -3.70202],
+    "image": "//images.almundo.com/201/1000000/900000/899400/899389/899389_264_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1740.38,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "391440",
+    "name": "Hotel Dome Las Tablas",
+    "slug": "hotel-dome-las-tablas-391440",
+    "stars": 4,
+    "position": [40.51498, -3.67352],
+    "image": "//images.almundo.com/201/7000000/6830000/6827800/6827716/6827716_3_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1132.23,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267289",
+    "name": "JC Rooms Puerta del Sol",
+    "slug": "jc-rooms-puerta-del-sol-267289",
+    "stars": 2,
+    "position": [40.41825, -3.7078],
+    "image": "//images.almundo.com/201/4000000/3590000/3585000/3584937/3584937_3_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 754.88,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "424574",
+    "name": "Hotel Aravaca Village",
+    "slug": "hotel-aravaca-village-424574",
+    "stars": 4,
+    "position": [40.46513, -3.78605],
+    "image": "//images.almundo.com/201/1000000/910000/908400/908325/908325_24_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1363.03,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "367171",
+    "name": "Tryp Madrid Airport Suites",
+    "slug": "tryp-madrid-airport-suites-367171",
+    "stars": 3,
+    "position": [40.44694, -3.54276],
+    "image": "//images.almundo.com/201/7000000/6090000/6084000/6083944/6083944_69_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1509.76,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "544629",
+    "name": "Hostal Met Madrid",
+    "slug": "hostal-met-madrid-544629",
+    "stars": 1,
+    "position": [40.41629, -3.709],
+    "image": "//images.almundo.com/201/15000000/14600000/14590500/14590488/14590488_28_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 838.78,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "367170",
+    "name": "Travelodge Madrid Alcalá",
+    "slug": "travelodge-madrid-alcal--367170",
+    "stars": 3,
+    "position": [40.43702, -3.63113],
+    "image": "//images.almundo.com/201/7000000/6150000/6141300/6141249/6141249_11_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 754.88,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267297",
+    "name": "Hostal Las Cortes",
+    "slug": "hostal-las-cortes-267297",
+    "stars": 2,
+    "position": [40.41673, -3.69724],
+    "image": "//images.almundo.com/201/5000000/4040000/4035500/4035481/4035481_30_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 896.43,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "68591",
+    "name": "Hotel Sercotel Alcalá 611",
+    "slug": "hotel-sercotel-alcal-611-68591",
+    "stars": 4,
+    "position": [40.44727, -3.61133],
+    "image": "//images.almundo.com/201/1000000/900000/890700/890642/890642_101_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1226.66,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267296",
+    "name": "Hostal Victoria III",
+    "slug": "hostal-victoria-iii-267296",
+    "stars": 2,
+    "position": [40.41656, -3.69929],
+    "image": "//images.almundo.com/201/5000000/4500000/4496300/4496300/4496300_5_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 650.1,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "48585",
+    "name": "Novotel Madrid Center",
+    "slug": "novotel-madrid-center-48585",
+    "stars": 4,
+    "position": [40.42137, -3.67213],
+    "image": "//images.almundo.com/201/1000000/20000/17200/17125/38a943b6_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1698.43,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "20050",
+    "name": "Regina",
+    "slug": "regina-20050",
+    "stars": 3,
+    "position": [40.41778, -3.6998],
+    "image": "//images.almundo.com/201/2000000/1180000/1170200/1170158/1170158_11_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1226.66,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "17447",
+    "name": "Hotel Miguel Angel by BlueBay",
+    "slug": "hotel-miguel-angel-by-bluebay-17447",
+    "stars": 5,
+    "position": [40.43775, -3.6913],
+    "image": "//images.almundo.com/201/1000000/10000/6600/6574/6574_133_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2306.58,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210788",
+    "name": "Hostal Atocha Almudena Martin",
+    "slug": "hostal-atocha-almudena-martin-210788",
+    "stars": 2,
+    "position": [40.41333, -3.70113],
+    "image": "//images.almundo.com/201/3000000/2690000/2684700/2684617/2684617_31_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1048.34,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "17964",
+    "name": "NH Madrid Atocha",
+    "slug": "nh-madrid-atocha-17964",
+    "stars": 3,
+    "position": [40.40758, -3.68951],
+    "image": "//images.almundo.com/201/1000000/530000/523400/523332/523332_93_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2285.52,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267295",
+    "name": "Hostel Olga",
+    "slug": "hostel-olga-267295",
+    "stars": 2,
+    "position": [40.41674, -3.69703],
+    "image": "//images.almundo.com/201/5000000/4970000/4966600/4966532/4966532_14_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 943.56,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "10138",
+    "name": "Hotel Casón del Tormes",
+    "slug": "hotel-cas-n-del-tormes-10138",
+    "stars": 3,
+    "position": [40.4225, -3.71113],
+    "image": "//images.almundo.com/201/1000000/910000/904900/904839/904839_91_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1467.81,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "546373",
+    "name": "Air Rooms Madrid by Premium Traveller",
+    "slug": "air-rooms-madrid-by-premium-traveller-546373",
+    "stars": 3,
+    "position": [40.49125, -3.59557],
+    "image": "//images.almundo.com/201/10000000/9210000/9209900/9209865/9209865_4_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2914.55,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "434420",
+    "name": "Courtyard by Marriott Madrid Princesa",
+    "slug": "courtyard-by-marriott-madrid-princesa-434420",
+    "stars": 4,
+    "position": [40.42952, -3.71545],
+    "image": "//images.almundo.com/201/1000000/30000/24900/24814/24814_88_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1992.06,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "247609",
+    "name": "Aravaca Garden",
+    "slug": "aravaca-garden-247609",
+    "stars": 3,
+    "position": [40.47246082680101, -3.8330664015737925],
+    "image": "//images.almundo.com/203/15/156831/156831a_hb_a_001.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 419.3,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267278",
+    "name": "Hostal Castilla II",
+    "slug": "hostal-castilla-ii-267278",
+    "stars": 2,
+    "position": [40.4157, -3.70484],
+    "image": "//images.almundo.com/201/2000000/1390000/1383300/1383288/1383288_104_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1162.93,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "239522",
+    "name": "THC Bergantín Hostel",
+    "slug": "thc-bergant-n-hostel-239522",
+    "stars": 2,
+    "position": [40.41659, -3.70166],
+    "image": "//images.almundo.com/201/5000000/4200000/4190200/4190136/4190136_9_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1069.4,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "17177",
+    "name": "Mediodia",
+    "slug": "mediodia-17177",
+    "stars": 2,
+    "position": [40.4085037179235, -3.69305490748957],
+    "image": "//images.almundo.com/201/17000000/16110000/16108200/16108193/a2ac2347_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1425.86,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "64840",
+    "name": "Vincci Soho",
+    "slug": "vincci-soho-64840",
+    "stars": 4,
+    "position": [40.4149, -3.69848],
+    "image": "//images.almundo.com/201/2000000/1320000/1315300/1315203/1315203_114_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1614.54,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "428789",
+    "name": "The Principal Madrid",
+    "slug": "the-principal-madrid-428789",
+    "stars": 5,
+    "position": [40.41938, -3.69709],
+    "image": "//images.almundo.com/201/10000000/9560000/9550100/9550091/9550091_68_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 4382.36,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "423494",
+    "name": "Hostal Maria Luisa",
+    "slug": "hostal-maria-luisa-423494",
+    "stars": 2,
+    "position": [40.42157, -3.70019],
+    "image": "//images.almundo.com/201/10000000/9630000/9620200/9620172/9620172_10_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 739.17,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "60801",
+    "name": "NH Collection Madrid Eurobuilding",
+    "slug": "nh-collection-madrid-eurobuilding-60801",
+    "stars": 4,
+    "position": [40.45835, -3.68564],
+    "image": "//images.almundo.com/201/1000000/30000/24200/24151/24151_331_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2830.66,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "59539",
+    "name": "Hostal Don Diego",
+    "slug": "hostal-don-diego-59539",
+    "stars": 3,
+    "position": [40.42709, -3.68408],
+    "image": "//images.almundo.com/201/3000000/2580000/2578700/2578660/2578660_88_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 838.78,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "59538",
+    "name": "Hostal Persal",
+    "slug": "hostal-persal-59538",
+    "stars": 2,
+    "position": [40.41434, -3.70235],
+    "image": "//images.almundo.com/201/2000000/1110000/1102600/1102503/1102503_48_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1341.97,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267286",
+    "name": "Sol Mayor Apartments",
+    "slug": "sol-mayor-apartments-267286",
+    "stars": 3,
+    "position": [40.41655, -3.70468],
+    "image": "//images.almundo.com/201/5000000/4870000/4869200/4869188/4869188_1_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 796.83,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "265660",
+    "name": "Petit Palace Lealtad Plaza",
+    "slug": "petit-palace-lealtad-plaza-265660",
+    "stars": 4,
+    "position": [40.41652, -3.69101],
+    "image": "//images.almundo.com/201/6000000/5300000/5297800/5297757/5297757_101_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2057.04,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "238667",
+    "name": "Petit Palace Savoy Alfonso XII",
+    "slug": "petit-palace-savoy-alfonso-xii-238667",
+    "stars": 4,
+    "position": [40.41731, -3.68903],
+    "image": "//images.almundo.com/201/5000000/4440000/4433600/4433525/4433525_94_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1893.53,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267282",
+    "name": "Artrip",
+    "slug": "artrip-267282",
+    "stars": 2,
+    "position": [40.40713, -3.70013],
+    "image": "//images.almundo.com/201/6000000/5160000/5152500/5152469/5152469_135_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1679.51,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "63192",
+    "name": "Hotel Meninas",
+    "slug": "hotel-meninas-63192",
+    "stars": 4,
+    "position": [40.41912, -3.70926],
+    "image": "//images.almundo.com/201/2000000/1170000/1166500/1166491/1166491_130_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1363.03,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "301462",
+    "name": "Hotel Acta Madfor",
+    "slug": "hotel-acta-madfor-301462",
+    "stars": 3,
+    "position": [40.42142, -3.72144],
+    "image": "//images.almundo.com/201/6000000/5510000/5508900/5508841/5508841_51_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1175.25,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "63193",
+    "name": "Eurostars Casa de la Lírica",
+    "slug": "eurostars-casa-de-la-l-rica-63193",
+    "stars": 4,
+    "position": [40.41829, -3.70141],
+    "image": "//images.almundo.com/201/1000000/530000/527600/527519/3449ebe2_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1614.54,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210830",
+    "name": "Hostal Salamanca",
+    "slug": "hostal-salamanca-210830",
+    "stars": 2,
+    "position": [40.42971, -3.67105],
+    "image": "//images.almundo.com/201/3000000/2470000/2462800/2462772/2462772_34_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1048.34,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210676",
+    "name": "Hostal Abel Victoriano",
+    "slug": "hostal-abel-victoriano-210676",
+    "stars": 2,
+    "position": [40.4258, -3.7072],
+    "image": "//images.almundo.com/201/3000000/2540000/2535600/2535563/2535563_25_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 943.56,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "63241",
+    "name": "Petit Palace Art Gallery",
+    "slug": "petit-palace-art-gallery-63241",
+    "stars": 4,
+    "position": [40.42383, -3.68524],
+    "image": "//images.almundo.com/201/2000000/1410000/1406700/1406689/15aecdae_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2579.15,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267268",
+    "name": "Hostal Veracruz II",
+    "slug": "hostal-veracruz-ii-267268",
+    "stars": 2,
+    "position": [40.41649, -3.70166],
+    "image": "//images.almundo.com/201/4000000/3010000/3001100/3001051/3001051_2_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 837.88,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267301",
+    "name": "Hostal Jemasaca-Palma61",
+    "slug": "hostal-jemasaca-palma61-267301",
+    "stars": 2,
+    "position": [40.42673, -3.70783],
+    "image": "//images.almundo.com/201/5000000/4930000/4925100/4925043/6f60fff3_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 754.88,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "39453",
+    "name": "Catalonia Puerta del Sol",
+    "slug": "catalonia-puerta-del-sol-39453",
+    "stars": 4,
+    "position": [40.41394, -3.70286],
+    "image": "//images.almundo.com/201/1000000/910000/906200/906121/906121_146_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1887.11,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267300",
+    "name": "MuchoMadrid",
+    "slug": "muchomadrid-267300",
+    "stars": 2,
+    "position": [40.42222, -3.70907],
+    "image": "//images.almundo.com/201/5000000/4930000/4925100/4925015/4925015_23_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 934.1,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "544445",
+    "name": "Living Mad Hostel",
+    "slug": "living-mad-hostel-544445",
+    "stars": 2,
+    "position": [40.41193, -3.7022],
+    "image": "//images.almundo.com/201/14000000/13580000/13574900/13574824/13574824_35_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 964.62,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267269",
+    "name": "Hostal Playa",
+    "slug": "hostal-playa-267269",
+    "stars": 2,
+    "position": [40.41644, -3.70166],
+    "image": "//images.almundo.com/201/13000000/12270000/12265600/12265519/245d37b8_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 817.71,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "363395",
+    "name": "Hostal Tokio",
+    "slug": "hostal-tokio-363395",
+    "stars": 1,
+    "position": [40.42205, -3.7024],
+    "image": "//images.almundo.com/201/7000000/6060000/6052300/6052243/263a727f_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 739.17,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267302",
+    "name": "Apartamentos Arguelles",
+    "slug": "apartamentos-arguelles-267302",
+    "stars": 2,
+    "position": [40.4303, -3.70906],
+    "image": "//images.almundo.com/201/6000000/5270000/5261500/5261439/5261439_164_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 943.56,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210690",
+    "name": "Hostal Aresol",
+    "slug": "hostal-aresol-210690",
+    "stars": 2,
+    "position": [40.41698, -3.70535],
+    "image": "//images.almundo.com/201/4000000/3150000/3147800/3147795/3147795_29_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 788.44,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "29927",
+    "name": "Hotel Sterling",
+    "slug": "hotel-sterling-29927",
+    "stars": 3,
+    "position": [40.42304, -3.70758],
+    "image": "//images.almundo.com/201/1000000/570000/561700/561610/561610_3_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1245.58,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "229900",
+    "name": "Di Carlo Hotels Madrid",
+    "slug": "di-carlo-hotels-madrid-229900",
+    "stars": 3,
+    "position": [40.46261, -3.69808],
+    "image": "//images.almundo.com/201/3000000/2760000/2750300/2750217/2750217_15_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1048.34,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "125340",
+    "name": "Hostal Jerez",
+    "slug": "hostal-jerez-125340",
+    "stars": 3,
+    "position": [40.41961, -3.70179],
+    "image": "//images.almundo.com/201/3000000/2700000/2692400/2692372/2692372_10_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1153.29,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267308",
+    "name": "Hostal Galaico",
+    "slug": "hostal-galaico-267308",
+    "stars": 2,
+    "position": [40.41971, -3.69949],
+    "image": "//images.almundo.com/201/4000000/3100000/3096300/3096238/3096238_2_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1258.07,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "75340",
+    "name": "Catalonia Las Cortes Hotel",
+    "slug": "catalonia-las-cortes-hotel-75340",
+    "stars": 4,
+    "position": [40.41467, -3.69943],
+    "image": "//images.almundo.com/201/2000000/1450000/1445300/1445259/1445259_71_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2306.58,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "141470",
+    "name": "Orion Apart Hotel",
+    "slug": "orion-apart-hotel-141470",
+    "stars": 2,
+    "position": [40.43503, -3.68507],
+    "image": "//images.almundo.com/201/8000000/7820000/7815500/7815409/7815409_3_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1015.85,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "311079",
+    "name": "Innside Madrid Genova",
+    "slug": "innside-madrid-genova-311079",
+    "stars": 4,
+    "position": [40.42795, -3.69556],
+    "image": "//images.almundo.com/203/18/189063/189063a_hb_a_610.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1792.86,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210848",
+    "name": "Hostal Valencia",
+    "slug": "hostal-valencia-210848",
+    "stars": 3,
+    "position": [40.42035, -3.70533],
+    "image": "//images.almundo.com/201/6000000/5270000/5261500/5261445/5261445_30_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 754.88,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "391308",
+    "name": "Hotel Indigo Madrid - Gran Via",
+    "slug": "hotel-indigo-madrid---gran-via-391308",
+    "stars": 4,
+    "position": [40.42072, -3.70745],
+    "image": "//images.almundo.com/201/7000000/6550000/6544900/6544887/6544887_137_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2830.66,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "527156",
+    "name": "Hostal Victoria II",
+    "slug": "hostal-victoria-ii-527156",
+    "stars": 2,
+    "position": [40.41702, -3.70336],
+    "image": "//images.almundo.com/201/5000000/4500000/4496300/4496299/4496299_5_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 817.71,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "59543",
+    "name": "NH Madrid Lagasca",
+    "slug": "nh-madrid-lagasca-59543",
+    "stars": 4,
+    "position": [40.42755, -3.68511],
+    "image": "//images.almundo.com/201/1000000/530000/523400/523306/523306_88_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2495.26,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267271",
+    "name": "Hostal Victoria I",
+    "slug": "hostal-victoria-i-267271",
+    "stars": 2,
+    "position": [40.4163, -3.70325],
+    "image": "//images.almundo.com/201/5000000/4500000/4496300/4496297/4496297_6_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 943.56,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "100832",
+    "name": "Hostal María Ronda",
+    "slug": "hostal-mar-a-ronda-100832",
+    "stars": 3,
+    "position": [40.38474, -3.74105],
+    "image": "//images.almundo.com/201/16000000/15460000/15454900/15454828/8ba4f307_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 838.78,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "100799",
+    "name": "Hotel Suites Feria de Madrid",
+    "slug": "hotel-suites-feria-de-madrid-100799",
+    "stars": 3,
+    "position": [40.45719, -3.64686],
+    "image": "//images.almundo.com/201/2000000/1740000/1738600/1738570/1738570_50_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 822,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267272",
+    "name": "Hostal San Blas",
+    "slug": "hostal-san-blas-267272",
+    "stars": 1,
+    "position": [40.41008, -3.69438],
+    "image": "//images.almundo.com/201/5000000/4610000/4600500/4600420/4600420_15_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 985.5,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "48711",
+    "name": "Hotel Mayorazgo",
+    "slug": "hotel-mayorazgo-48711",
+    "stars": 4,
+    "position": [40.42214, -3.7095],
+    "image": "//images.almundo.com/201/1000000/60000/54500/54490/54490_684_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1572.59,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267256",
+    "name": "Hostal Condestable",
+    "slug": "hostal-condestable-267256",
+    "stars": 2,
+    "position": [40.42229, -3.70379],
+    "image": "//images.almundo.com/201/5000000/4900000/4896000/4895902/4895902_47_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 707.76,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "134146",
+    "name": "Holiday Inn Madrid Las Tablas",
+    "slug": "holiday-inn-madrid-las-tablas-134146",
+    "stars": 4,
+    "position": [40.5126200072627, -3.67610044428147],
+    "image": "//images.almundo.com/203/02/029288/029288a_hb_a_002.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1237.19,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267258",
+    "name": "Posada del León de Oro",
+    "slug": "posada-del-le-n-de-oro-267258",
+    "stars": 4,
+    "position": [40.41318, -3.70845],
+    "image": "//images.almundo.com/201/4000000/4000000/3991500/3991469/3991469_67_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1237.19,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "407921",
+    "name": "Urban Sea Atocha 113",
+    "slug": "urban-sea-atocha-113-407921",
+    "stars": 1,
+    "position": [40.41022, -3.69473],
+    "image": "//images.almundo.com/201/3000000/2910000/2900500/2900464/2900464_72_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1027.45,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "40952",
+    "name": "City House Florida Norte Hotel by Faranda",
+    "slug": "city-house-florida-norte-hotel-by-faranda-40952",
+    "stars": 4,
+    "position": [40.42114, -3.72112],
+    "image": "//images.almundo.com/201/1000000/50000/47000/46912/46912_119_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1572.59,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "409300",
+    "name": "NeoMagna Madrid",
+    "slug": "neomagna-madrid-409300",
+    "stars": 2,
+    "position": [40.42849, -3.67127],
+    "image": "//images.almundo.com/201/8000000/7850000/7840300/7840216/7840216_14_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1037.98,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "262528",
+    "name": "Hostal Gran Via 63 Rooms",
+    "slug": "hostal-gran-via-63-rooms-262528",
+    "stars": 3,
+    "position": [40.42258, -3.70962],
+    "image": "//images.almundo.com/201/5000000/4130000/4122000/4121964/4121964_111_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1048.34,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "532626",
+    "name": "Artiem Madrid",
+    "slug": "artiem-madrid-532626",
+    "stars": 4,
+    "position": [40.44287, -3.64816],
+    "image": "//images.almundo.com/201/1000000/590000/582700/582636/582636_198_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1593.65,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210735",
+    "name": "Hostal Dolcevita",
+    "slug": "hostal-dolcevita-210735",
+    "stars": 2,
+    "position": [40.42134, -3.69875],
+    "image": "//images.almundo.com/201/9000000/8130000/8120700/8120686/8120686_1_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 922.67,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "34276",
+    "name": "NH Collection Madrid Abascal",
+    "slug": "nh-collection-madrid-abascal-34276",
+    "stars": 4,
+    "position": [40.43824, -3.69522],
+    "image": "//images.almundo.com/201/1000000/530000/523300/523262/523262_141_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2411.54,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267264",
+    "name": "Hostal Abadía Madrid",
+    "slug": "hostal-abad-a-madrid-267264",
+    "stars": 2,
+    "position": [40.41366, -3.70226],
+    "image": "//images.almundo.com/201/5000000/4950000/4945500/4945484/4945484_19_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 974.97,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210697",
+    "name": "Hostal Bahía",
+    "slug": "hostal-bah-a-210697",
+    "stars": 2,
+    "position": [40.41497, -3.70328],
+    "image": "//images.almundo.com/201/4000000/3350000/3345600/3345546/3345546_14_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 629.04,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267263",
+    "name": "Hostal Art Madrid",
+    "slug": "hostal-art-madrid-267263",
+    "stars": 1,
+    "position": [40.4132, -3.70485],
+    "image": "//images.almundo.com/201/4000000/3940000/3930200/3930131/3930131_97_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 748.63,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210695",
+    "name": "Hostal Avenida",
+    "slug": "hostal-avenida-210695",
+    "stars": 2,
+    "position": [40.41989, -3.70023],
+    "image": "//images.almundo.com/201/3000000/2760000/2750100/2750068/2750068_73_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 980.33,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267265",
+    "name": "Hostal San Isidro",
+    "slug": "hostal-san-isidro-267265",
+    "stars": 2,
+    "position": [40.41539, -3.70031],
+    "image": "//images.almundo.com/201/5000000/4850000/4846900/4846852/4846852_4_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1048.34,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267262",
+    "name": "Hostal Rivera",
+    "slug": "hostal-rivera-267262",
+    "stars": 2,
+    "position": [40.41188, -3.69818],
+    "image": "//images.almundo.com/201/3000000/2700000/2693100/2693046/2693046_5_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 838.78,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267261",
+    "name": "Hostal Nersan II",
+    "slug": "hostal-nersan-ii-267261",
+    "stars": 2,
+    "position": [40.43208, -3.69753],
+    "image": "//images.almundo.com/201/5000000/4150000/4140600/4140598/387cc210_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 901.61,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "138639",
+    "name": "Apartamentos Goya 75",
+    "slug": "apartamentos-goya-75-138639",
+    "stars": 3,
+    "position": [40.42522, -3.67882],
+    "image": "//images.almundo.com/201/16000000/15790000/15783000/15782929/3e303ace_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1048.34,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267249",
+    "name": "Residencia Lemus",
+    "slug": "residencia-lemus-267249",
+    "stars": 1,
+    "position": [40.42054, -3.7009],
+    "image": "//images.almundo.com/201/6000000/5270000/5265600/5265516/5265516_47_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 566.21,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "373413",
+    "name": "JC Rooms Santa Ana",
+    "slug": "jc-rooms-santa-ana-373413",
+    "stars": 2,
+    "position": [40.416, -3.70112],
+    "image": "//images.almundo.com/201/6000000/5370000/5361300/5361258/5361258_1_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 754.88,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267246",
+    "name": "Hostal Rico",
+    "slug": "hostal-rico-267246",
+    "stars": 2,
+    "position": [40.42199, -3.70094],
+    "image": "//images.almundo.com/201/5000000/4900000/4897300/4897250/4897250_11_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 849.31,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "107579",
+    "name": "Hilton Madrid Airport",
+    "slug": "hilton-madrid-airport-107579",
+    "stars": 5,
+    "position": [40.45229, -3.58624],
+    "image": "//images.almundo.com/201/2000000/1700000/1695700/1695661/1695661_51_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2704.99,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267245",
+    "name": "Hostal Foster",
+    "slug": "hostal-foster-267245",
+    "stars": 2,
+    "position": [40.422, -3.70604],
+    "image": "//images.almundo.com/201/5000000/4340000/4333000/4332930/4332930_22_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1467.81,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267248",
+    "name": "Hostal Abril",
+    "slug": "hostal-abril-267248",
+    "stars": 2,
+    "position": [40.42261, -3.70079],
+    "image": "//images.almundo.com/201/4000000/3770000/3760400/3760334/3760334_30_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1027.45,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "18332",
+    "name": "Hotel Ópera",
+    "slug": "hotel-pera-18332",
+    "stars": 4,
+    "position": [40.41894, -3.71019],
+    "image": "//images.almundo.com/201/1000000/70000/63500/63454/63454_82_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1363.03,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "425622",
+    "name": "Vitium Urban Suites",
+    "slug": "vitium-urban-suites-425622",
+    "stars": 3,
+    "position": [40.42257, -3.70953],
+    "image": "//images.almundo.com/201/8000000/7630000/7620600/7620579/7620579_35_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 989.79,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "262518",
+    "name": "Abalu Boutique Suites & Residences",
+    "slug": "abalu-boutique-suites-residences-262518",
+    "stars": 4,
+    "position": [40.42392, -3.70582],
+    "image": "//images.almundo.com/201/5000000/4250000/4241300/4241232/a9a92a8b_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1363.03,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "85737",
+    "name": "AC Hotel Recoletos by Marriott",
+    "slug": "ac-hotel-recoletos-by-marriott-85737",
+    "stars": 4,
+    "position": [40.42158, -3.68943],
+    "image": "//images.almundo.com/201/2000000/1670000/1661300/1661232/1661232_101_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 3229.07,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "527531",
+    "name": "Hostal El Brezo",
+    "slug": "hostal-el-brezo-527531",
+    "stars": 3,
+    "position": [40.42996, -3.71585],
+    "image": "//images.almundo.com/201/9000000/8760000/8752100/8752034/8752034_81_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 830.39,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "22271",
+    "name": "NH Collection Madrid Suecia",
+    "slug": "nh-collection-madrid-suecia-22271",
+    "stars": 5,
+    "position": [40.41762, -3.69562],
+    "image": "//images.almundo.com/201/1000000/20000/11700/11695/11695_35_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 3459.87,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "80721",
+    "name": "Hotel Liabeny",
+    "slug": "hotel-liabeny-80721",
+    "stars": 4,
+    "position": [40.41864, -3.70395],
+    "image": "//images.almundo.com/201/1000000/600000/598800/598707/598707_60_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2191.27,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "60796",
+    "name": "Leonardo Boutique Hotel Madrid",
+    "slug": "leonardo-boutique-hotel-madrid-60796",
+    "stars": 3,
+    "position": [40.43727, -3.70841],
+    "image": "//images.almundo.com/201/1000000/530000/523300/523272/cee16184_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1237.19,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "29740",
+    "name": "AC Hotel Aitana by Marriott",
+    "slug": "ac-hotel-aitana-by-marriott-29740",
+    "stars": 4,
+    "position": [40.45588, -3.68982],
+    "image": "//images.almundo.com/201/1000000/530000/527500/527474/527474_125_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2191.27,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "47177",
+    "name": "Silken Puerta Madrid",
+    "slug": "silken-puerta-madrid-47177",
+    "stars": 4,
+    "position": [40.44766, -3.63689],
+    "image": "//images.almundo.com/201/1000000/900000/891100/891025/891025_62_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1216.13,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "60793",
+    "name": "NH Madrid Chamberí",
+    "slug": "nh-madrid-chamber--60793",
+    "stars": 3,
+    "position": [40.43957, -3.69822],
+    "image": "//images.almundo.com/201/1000000/580000/578500/578499/578499_92_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1866.22,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "77439",
+    "name": "Senator Castellana",
+    "slug": "senator-castellana-77439",
+    "stars": 3,
+    "position": [40.458629, -3.695272],
+    "image": "//images.almundo.com/203/07/076270/076270a_hb_a_010.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1446.75,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "47176",
+    "name": "AC Hotel Avenida de América by Marriott",
+    "slug": "ac-hotel-avenida-de-am-rica-by-marriott-47176",
+    "stars": 3,
+    "position": [40.43819, -3.6726],
+    "image": "//images.almundo.com/201/1000000/890000/890000/889942/889942_107_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1614.54,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "267254",
+    "name": "Hostal Greco Madrid",
+    "slug": "hostal-greco-madrid-267254",
+    "stars": 2,
+    "position": [40.42103, -3.70074],
+    "image": "//images.almundo.com/201/5000000/4800000/4794300/4794226/4794226_30_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 3145.17,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "93905",
+    "name": "B&B Hotel Madrid Airport",
+    "slug": "b-b-hotel-madrid-airport-93905",
+    "stars": 3,
+    "position": [40.44746, -3.54271],
+    "image": "//images.almundo.com/201/2000000/1780000/1777700/1777642/1777642_162_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1237.19,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "57827",
+    "name": "Hotel Atlantico Madrid",
+    "slug": "hotel-atlantico-madrid-57827",
+    "stars": 4,
+    "position": [40.42024, -3.70457],
+    "image": "//images.almundo.com/201/1000000/30000/26500/26417/26417_232_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 3567.86,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "19830",
+    "name": "Rafaelhoteles Atocha",
+    "slug": "rafaelhoteles-atocha-19830",
+    "stars": 4,
+    "position": [40.40155, -3.68721],
+    "image": "//images.almundo.com/201/1000000/530000/527400/527369/527369_115_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1383.92,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "17772",
+    "name": "Aparto-Suites Muralto",
+    "slug": "aparto-suites-muralto-17772",
+    "stars": 3,
+    "position": [40.42955, -3.71606],
+    "image": "//images.almundo.com/201/1000000/10000/7600/7593/7593_323_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1782.33,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "24627",
+    "name": "Zenit Abeba",
+    "slug": "zenit-abeba-24627",
+    "stars": 4,
+    "position": [40.4319, -3.67351],
+    "image": "//images.almundo.com/201/1000000/200000/192400/192357/192357_71_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1341.97,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "249829",
+    "name": "Madrid Central Suites",
+    "slug": "madrid-central-suites-249829",
+    "stars": 3,
+    "position": [40.42726, -3.70108],
+    "image": "//images.almundo.com/201/5000000/4880000/4870100/4870075/4870075_23_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2148.07,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "63278",
+    "name": "Travelodge Madrid Torrelaguna",
+    "slug": "travelodge-madrid-torrelaguna-63278",
+    "stars": 3,
+    "position": [40.44422, -3.65431],
+    "image": "//images.almundo.com/201/2000000/1120000/1111700/1111676/e73d15bc_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 754.88,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "20384",
+    "name": "Hotel Ritz",
+    "slug": "hotel-ritz-20384",
+    "stars": 5,
+    "position": [40.4159, -3.69275],
+    "image": "//images.almundo.com/201/1000000/30000/26300/26286/26286_277_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 6112.38,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "50080",
+    "name": "Hotel Preciados",
+    "slug": "hotel-preciados-50080",
+    "stars": 4,
+    "position": [40.41977, -3.70752],
+    "image": "//images.almundo.com/201/11000000/10370000/10360300/10360265/10360265_9_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2191.27,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "408794",
+    "name": "One Shot Recoletos 04",
+    "slug": "one-shot-recoletos-04-408794",
+    "stars": 4,
+    "position": [40.421, -3.69139],
+    "image": "//images.almundo.com/201/8000000/7750000/7747300/7747255/7747255_27_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1572.59,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "49182",
+    "name": "Holiday Inn Madrid - Bernabeu",
+    "slug": "holiday-inn-madrid---bernabeu-49182",
+    "stars": 4,
+    "position": [40.45115, -3.69398],
+    "image": "//images.almundo.com/201/1000000/10000/4600/4568/aa16b514_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2191.27,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "121502",
+    "name": "Espahotel Plaza de España",
+    "slug": "espahotel-plaza-de-espa-a-121502",
+    "stars": 3,
+    "position": [40.42252, -3.71221],
+    "image": "//images.almundo.com/201/1000000/80000/78900/78894/78894_97_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1467.81,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "141011",
+    "name": "Apartments Andrómeda",
+    "slug": "apartments-andr-meda-141011",
+    "stars": 2,
+    "position": [40.4287, -3.69462],
+    "image": "//images.almundo.com/201/8000000/7780000/7770800/7770734/7770734_4_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 873.41,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "57553",
+    "name": "Petit Palace Puerta del Sol",
+    "slug": "petit-palace-puerta-del-sol-57553",
+    "stars": 3,
+    "position": [40.41692, -3.70516],
+    "image": "//images.almundo.com/201/2000000/1120000/1112300/1112279/1112279_166_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1679.51,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210750",
+    "name": "Hostal Gallardo",
+    "slug": "hostal-gallardo-210750",
+    "stars": 3,
+    "position": [40.42715, -3.70165],
+    "image": "//images.almundo.com/201/3000000/2450000/2440500/2440471/2440471_22_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 896.43,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "111030",
+    "name": "Suite Prado Hotel",
+    "slug": "suite-prado-hotel-111030",
+    "stars": 4,
+    "position": [40.41514, -3.6991],
+    "image": "//images.almundo.com/201/1000000/570000/562200/562134/562134_22_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1616.86,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "544263",
+    "name": "Way Hostel Madrid - Adults Only",
+    "slug": "way-hostel-madrid---adults-only-544263",
+    "stars": 2,
+    "position": [40.41268, -3.70338],
+    "image": "//images.almundo.com/201/13000000/12440000/12439900/12439837/12439837_114_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 897.5,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "18107",
+    "name": "Novotel Madrid Puente de la Paz",
+    "slug": "novotel-madrid-puente-de-la-paz-18107",
+    "stars": 4,
+    "position": [40.44134, -3.65687],
+    "image": "//images.almundo.com/201/1000000/20000/19400/19393/19393_186_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1740.38,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "436474",
+    "name": "Hostal Olmedo",
+    "slug": "hostal-olmedo-436474",
+    "stars": 3,
+    "position": [40.41569, -3.70168],
+    "image": "//images.almundo.com/201/15000000/14890000/14881700/14881620/14881620_24_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1006.57,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "49185",
+    "name": "Praktik Metropol",
+    "slug": "praktik-metropol-49185",
+    "stars": 3,
+    "position": [40.41989, -3.70173],
+    "image": "//images.almundo.com/201/5000000/4410000/4406100/4406014/515cd03f_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1279.14,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "239990",
+    "name": "NH Collection Palacio de Tepa",
+    "slug": "nh-collection-palacio-de-tepa-239990",
+    "stars": 5,
+    "position": [40.41379, -3.70159],
+    "image": "//images.almundo.com/201/4000000/3910000/3909200/3909105/3909105_66_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 3753.32,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "403410",
+    "name": "Room007 Ventura Hostel",
+    "slug": "room007-ventura-hostel-403410",
+    "stars": 2,
+    "position": [40.41572, -3.69892],
+    "image": "//images.almundo.com/201/6000000/5990000/5982500/5982445/5982445_20_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1027.45,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "182218",
+    "name": "Compostela Suites Apartments",
+    "slug": "compostela-suites-apartments-182218",
+    "stars": 3,
+    "position": [40.44766, -3.58042],
+    "image": "//images.almundo.com/201/3000000/2560000/2555500/2555415/aea94ad8_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1363.03,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "111773",
+    "name": "Hotel Trafalgar",
+    "slug": "hotel-trafalgar-111773",
+    "stars": 3,
+    "position": [40.43405, -3.70163],
+    "image": "//images.almundo.com/201/1000000/570000/562000/561913/561913_116_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1247.54,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "48765",
+    "name": "AC Hotel Aravaca by Marriott",
+    "slug": "ac-hotel-aravaca-by-marriott-48765",
+    "stars": 4,
+    "position": [40.4647, -3.78507],
+    "image": "//images.almundo.com/201/1000000/920000/912700/912653/912653_83_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1453.17,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "63200",
+    "name": "Petit Palace Posada del Peine",
+    "slug": "petit-palace-posada-del-peine-63200",
+    "stars": 4,
+    "position": [40.41575, -3.70617],
+    "image": "//images.almundo.com/201/2000000/1270000/1265700/1265673/d5c46244_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1295.91,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "10152",
+    "name": "InterContinental Madrid",
+    "slug": "intercontinental-madrid-10152",
+    "stars": 5,
+    "position": [40.43649, -3.69009],
+    "image": "//images.almundo.com/201/1000000/30000/22100/22036/22036_916_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 3805.8,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "548449",
+    "name": "Ok Hostel Madrid",
+    "slug": "ok-hostel-madrid-548449",
+    "stars": 1,
+    "position": [40.41111, -3.70678],
+    "image": "//images.almundo.com/201/15000000/14600000/14590700/14590660/14590660_39_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1220.41,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "247610",
+    "name": "Luxury Suites",
+    "slug": "luxury-suites-247610",
+    "stars": 4,
+    "position": [40.41967, -3.69137],
+    "image": "//images.almundo.com/201/5000000/4590000/4585300/4585288/4585288_106_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2453.31,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "111814",
+    "name": "Hotel Claridge Madrid",
+    "slug": "hotel-claridge-madrid-111814",
+    "stars": 4,
+    "position": [40.40644, -3.66969],
+    "image": "//images.almundo.com/201/1000000/490000/486300/486292/486292_223_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1782.33,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "408661",
+    "name": "Apart-Hotel Serrano Recoletos",
+    "slug": "apart-hotel-serrano-recoletos-408661",
+    "stars": 3,
+    "position": [40.42304, -3.69083],
+    "image": "//images.almundo.com/201/2000000/1160000/1157700/1157661/1157661_156_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1782.33,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210804",
+    "name": "Hostal Oriente",
+    "slug": "hostal-oriente-210804",
+    "stars": 3,
+    "position": [40.41786, -3.70905],
+    "image": "//images.almundo.com/201/3000000/2540000/2536200/2536103/2536103_39_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1111.35,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210803",
+    "name": "Hostal Oporto",
+    "slug": "hostal-oporto-210803",
+    "stars": 2,
+    "position": [40.41672, -3.69725],
+    "image": "//images.almundo.com/201/3000000/2440000/2438700/2438686/2438686_31_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 796.83,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210769",
+    "name": "La Plata",
+    "slug": "la-plata-210769",
+    "stars": 2,
+    "position": [40.41984, -3.7],
+    "image": "//images.almundo.com/201/3000000/2530000/2521600/2521511/2521511_50_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1467.81,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "232717",
+    "name": "Hostal Montaloya",
+    "slug": "hostal-montaloya-232717",
+    "stars": 2,
+    "position": [40.41251, -3.70372],
+    "image": "//images.almundo.com/201/9000000/8740000/8733800/8733778/8733778_57_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1034.23,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210805",
+    "name": "Hostal Go Inn Madrid",
+    "slug": "hostal-go-inn-madrid-210805",
+    "stars": 2,
+    "position": [40.41991, -3.70172],
+    "image": "//images.almundo.com/201/4000000/3130000/3124400/3124364/3124364_94_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 943.56,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "91627",
+    "name": "Hotel Victoria 4",
+    "slug": "hotel-victoria-4-91627",
+    "stars": 3,
+    "position": [40.41621, -3.70166],
+    "image": "//images.almundo.com/201/2000000/1330000/1327100/1327068/f494aa0a_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1245.58,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "50256",
+    "name": "Senator Gran Vía 70 Spa",
+    "slug": "senator-gran-v-a-70-spa-50256",
+    "stars": 4,
+    "position": [40.422806, -3.709478],
+    "image": "//images.almundo.com/203/00/007741/007741a_hb_a_030.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2075.96,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "403405",
+    "name": "Hostal 12 Rooms",
+    "slug": "hostal-12-rooms-403405",
+    "stars": 2,
+    "position": [40.41541, -3.70129],
+    "image": "//images.almundo.com/201/8000000/7420000/7416100/7416070/7416070_13_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 712.93,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "403407",
+    "name": "Hostal Florida",
+    "slug": "hostal-florida-403407",
+    "stars": 2,
+    "position": [40.41284, -3.70391],
+    "image": "//images.almundo.com/201/7000000/6580000/6574900/6574841/6574841_43_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 796.83,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "403408",
+    "name": "Jc Rooms Santo Domingo",
+    "slug": "jc-rooms-santo-domingo-403408",
+    "stars": 3,
+    "position": [40.41978, -3.70888],
+    "image": "//images.almundo.com/201/6000000/5980000/5975000/5974979/5974979_20_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1090.28,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210765",
+    "name": "Hostal La Casa de la Plaza",
+    "slug": "hostal-la-casa-de-la-plaza-210765",
+    "stars": 2,
+    "position": [40.41521, -3.70901],
+    "image": "//images.almundo.com/201/6000000/5160000/5152500/5152419/5152419_7_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 660.45,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "403409",
+    "name": "Hs Los Angeles",
+    "slug": "hs-los-angeles-403409",
+    "stars": 3,
+    "position": [40.44733, -3.70223],
+    "image": "//images.almundo.com/203/20/204434/204434a_hb_a_010.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1027.45,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "544517",
+    "name": "Hostal Armesto",
+    "slug": "hostal-armesto-544517",
+    "stars": 2,
+    "position": [40.4148, -3.69697],
+    "image": "//images.almundo.com/201/14000000/13510000/13505700/13505639/13505639_20_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 829.85,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "392040",
+    "name": "VERTICE ROOMSPACE MADRID",
+    "slug": "vertice-roomspace-madrid-392040",
+    "stars": 1,
+    "position": [40.33201, -3.70268],
+    "image": "//images.almundo.com/201/7000000/6120000/6114000/6113947/6113947_10_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 985.5,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "100890",
+    "name": "TÓTEM Madrid",
+    "slug": "t-tem-madrid-100890",
+    "stars": 4,
+    "position": [40.42639, -3.68532],
+    "image": "//images.almundo.com/201/2000000/1340000/1336000/1336000/d279a5f8_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 3690.49,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "413942",
+    "name": "URSO Hotel & Spa",
+    "slug": "urso-hotel-spa-413942",
+    "stars": 5,
+    "position": [40.42677, -3.69835],
+    "image": "//images.almundo.com/201/6000000/5160000/5151600/5151519/5151519_192_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 5235.77,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "111808",
+    "name": "Villamadrid Hotel",
+    "slug": "villamadrid-hotel-111808",
+    "stars": 4,
+    "position": [40.48953, -3.68793],
+    "image": "//images.almundo.com/201/1000000/700000/691800/691787/691787_102_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1392.48,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "182581",
+    "name": "Hostal Ballesta",
+    "slug": "hostal-ballesta-182581",
+    "stars": 2,
+    "position": [40.42132, -3.70352],
+    "image": "//images.almundo.com/201/3000000/2530000/2521100/2521088/2521088_50_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1176.32,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "29737",
+    "name": "AC Santo Mauro, Autograph Collection",
+    "slug": "ac-santo-mauro-autograph-collection-29737",
+    "stars": 5,
+    "position": [40.431, -3.6935],
+    "image": "//images.almundo.com/201/1000000/30000/27300/27247/27247_79_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 5766.27,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "549931",
+    "name": "Only YOU Hotel Atocha",
+    "slug": "only-you-hotel-atocha-549931",
+    "stars": 4,
+    "position": [40.40701, -3.68842],
+    "image": "//images.almundo.com/201/15000000/14730000/14725900/14725875/3ce8114b_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 2316.93,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "210817",
+    "name": "Hostal Plaza D'ort",
+    "slug": "hostal-plaza-d-ort-210817",
+    "stars": 1,
+    "position": [40.41434, -3.70241],
+    "image": "//images.almundo.com/201/2000000/1390000/1383500/1383425/1383425_2_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 733.82,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "549899",
+    "name": "Casual Madrid del Teatro",
+    "slug": "casual-madrid-del-teatro-549899",
+    "stars": 2,
+    "position": [40.4163, -3.69963],
+    "image": "//images.almundo.com/201/15000000/14590000/14581900/14581877/14581877_7_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1283.24,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "544521",
+    "name": "Hostal Hispalense",
+    "slug": "hostal-hispalense-544521",
+    "stars": 2,
+    "position": [40.41755, -3.70854],
+    "image": "//images.almundo.com/201/14000000/13490000/13483000/13482929/13482929_12_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1153.29,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "237831",
+    "name": "Hotel Petit Palace Santa Bárbara",
+    "slug": "hotel-petit-palace-santa-b-rbara-237831",
+    "stars": 4,
+    "position": [40.42654, -3.69658],
+    "image": "//images.almundo.com/201/5000000/4440000/4434600/4434576/4434576_46_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1453.17,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "91619",
+    "name": "Eco Alcala Suites",
+    "slug": "eco-alcala-suites-91619",
+    "stars": 4,
+    "position": [40.43753, -3.63151],
+    "image": "//images.almundo.com/201/2000000/1720000/1716700/1716688/f8127f52_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1374.45,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }, {
+    "id": "100800",
+    "name": "Vincci SoMa",
+    "slug": "vincci-soma-100800",
+    "stars": 4,
+    "position": [40.42491, -3.67813],
+    "image": "//images.almundo.com/201/1000000/480000/475200/475199/f6130307_b.jpg",
+    "price": {
+      "discount": 0,
+      "amount": 1660.77,
+      "code": "ARS"
+    },
+    "recommended": false,
+    "hotel_chain": ""
+  }
+]

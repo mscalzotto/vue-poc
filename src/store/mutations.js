@@ -1,4 +1,3 @@
-import Vue from 'vue'
 import * as types from './mutation-types'
 
 export default {
@@ -11,7 +10,12 @@ export default {
   [types.FETCH_HOTELS_SUCCESS] (state, { hotels }) {
     state.fetchingData = false
     state.error = null
-    state.HOTELS = [ ...hotels ]
+    state.results = hotels.docs
+    state.pagination = {
+      total: hotels.total,
+      limit: hotels.limit,
+      offset: hotels.offset
+    }
   },
 
   [types.FETCH_HOTELS_FAILURE] (state, { error }) {

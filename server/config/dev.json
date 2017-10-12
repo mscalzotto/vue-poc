@@ -1,0 +1,12 @@
+{
+  "db_url":"mongodb://localhost/hotels",
+  "app":{
+    "port":8081
+  },
+  "pagination":{
+    "config":{
+      "offset": 1,
+      "limit": 20
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Hotels API",
+  "main": "server.js",
+  "scripts": {
+    "serve": "babel-node ./server.js",
+    "start": "babel-watch ./server.js",
+    "test": "mocha --compilers js:babel-register --require babel-polyfill --recursive --timeout 10000",
+    "test:watch": "npm run test -- --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oscarcp777/Hotels-Almundo"
+  },
+  "author": "oscarcp777",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscarcp777/Hotels-Almundo"
+  },
+  "homepage": "https://github.com/oscarcp777/Hotels-Almundo#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "config": "^1.26.1",
+    "cors": "^2.8.4",
+    "express": "^4.15.3",
+    "helmet": "^3.8.1",
+    "mongodb": "^2.2.29",
+    "mongoose": "^4.11.1",
+    "mongoose-paginate": "^5.0.3",
+    "morgan": "^1.8.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.25.0",
+    "babel-polyfill": "^6.23.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-watch": "^2.0.7",
+    "chai": "^4.0.2",
+    "chai-http": "^3.0.0",
+    "mocha": "^3.4.2",
+    "sinon": "^2.3.6",
+    "supertest": "^3.0.0"
+  }
+}

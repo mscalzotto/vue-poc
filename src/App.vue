@@ -1,8 +1,8 @@
-<template lang="pug">
-  #app
-    am-header
-    router-view
-    am-footer
+<template>
+  <div id="app">
+    <am-header></am-header>
+    <router-view ></router-view>
+    <am-footer></am-footer>
   </div>
 </template>
 
@@ -11,7 +11,7 @@
   import AmFooter from '@/components/AmFooter'
 
   export default {
-    name: 'AmMain',
+    name: 'app',
     components: { AmHeader, AmFooter }
   }
 </script>

@@ -1,11 +1,11 @@
 export default {
-  getListsByBoard: (state) => (boardId) => {
-    return Object.values(state.lists)
-      .filter(list => list.board === boardId)
+  getFilters: state => {
+    return state.filters
   },
-
-  getTasksFromList: (state) => (listId) => {
-    return Object.values(state.tasks)
-      .filter(task => task.list === listId)
+  getHotels: (state) => {
+    return state.results
+  },
+  getPagination: (state) => {
+    return state.pagination
   }
 }
