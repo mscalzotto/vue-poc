@@ -44,7 +44,8 @@ npm i -D node-sass sass-loader
 * npm install
 * npm start
 * levanta en http://localhost:8081/api/hotels
-agrego unos graficos para entender mejor el flujo de Flux
+
+## Agrego unos graficos para entender mejor el flujo de Flux
 
 ![Screenshot](doc/diagram-redux.gif)
 ![Screenshot](doc/diagram-redux-MW.gif)

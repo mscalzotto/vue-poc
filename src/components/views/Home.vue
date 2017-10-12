@@ -1,16 +1,16 @@
-<template lang="pug">
-  #results
-    research
-    breadcrumb
-    maps
-    filters
-    results
-  </div>
+<template >
+<section class="hotel-container">
+  <breadcrumb></breadcrumb>
+  <research></research>
+  <filters></filters>
+  <ul class="hotels">
+    <results></results>
+  </ul>
+</section>
 </template>
 
 <script>
 import { mapState, mapActions } from 'vuex'
-import Maps from '@/components/Maps'
 import Breadcrumb from '@/components/Breadcrumb'
 import Filters from '@/components/Filters'
 import Research from '@/components/Research'
@@ -19,7 +19,6 @@ export default {
   name: 'home',
   components: {
     Results,
-    Maps,
     Filters,
     Research,
     Breadcrumb
@@ -46,5 +45,10 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
+.hotel-container {
+  color: rgb(68, 68, 68);
+  max-width: 1344px;
+  margin: 0 auto;
+}
 </style>

@@ -1,7 +1,11 @@
 <template>
-  <div id="breadcrumb">
-    <p>Breadcrumb</p>
-  </div>
+<nav class="breadcrumb">
+  <ul class="breadcrumb-list">
+    <li>Home</li>
+    <li> / Hoteles</li>
+    <li> / Madrid</li>
+  </ul>
+</nav>
 </template>
 
 <script>
@@ -12,6 +16,16 @@
   }
 </script>
 
-<style scoped>
+<style >
+nav .breadcrumb-list {
+  font-family: robotolight;
+  font-size: 12px;
+  margin: 10px 0;
+  padding: 0;
+  width: 100%;
+}
 
+nav .breadcrumb-list li {
+  display: inline;
+}
 </style>

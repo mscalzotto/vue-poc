@@ -1,6 +1,7 @@
 export default {
   fetchingData: true,
   error: null,
+  results: [],
   filters: {
     name: '',
     star: [],
