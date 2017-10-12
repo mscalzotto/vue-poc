@@ -1,14 +1,16 @@
 <template>
   <div id="hotel-cluster">
-    <p>Cluster</p>
+    {{ hotels }}
   </div>
 </template>
 
 <script>
+  import { mapState } from 'vuex'
+
   export default {
     name: 'Cluster',
     template: '<Cluster/>',
-    props: []
+    computed: mapState(['hotels', 'filters'])
   }
 </script>
 

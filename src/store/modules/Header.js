@@ -1,6 +1,6 @@
 'use strict'
 
-const store = {
+const header = {
   namespaced: true,
   state: {
     links: ['hola']
@@ -16,5 +16,5 @@ const store = {
 }
 
 export default {
-  store
+  header
 }

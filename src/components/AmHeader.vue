@@ -1,6 +1,5 @@
 <template>
   <div id="header">
-    {{ getLinks }}
     <header class="header">
       <div class="header-background">
         <div class="header-container">
@@ -8,7 +7,6 @@
           <div class="logo">
             <img src="./../assets/header/logo.svg" />
           </div>
-
           <ul class="sub-menu">
             <li class="ingresar">
               <i class="fa fa-user"></i>
@@ -47,23 +45,14 @@
           </li>
         </ul>
       </nav>
-
     </header>
   </div>
 </template>
 
 <script>
-  import { mapGetters } from 'vuex'
-
   export default {
     name: 'AmHeader',
-    template: '<AmHeader/>',
-    props: [],
-    computed: {
-      ...mapGetters('./modules/Header', [
-        'getLinks'
-      ])
-    }
+    template: '<AmHeader/>'
   }
 </script>
 

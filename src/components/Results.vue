@@ -11,7 +11,20 @@
   export default {
     name: 'Results',
     template: '<Results/>',
-    components: { Cluster }
+    components: { Cluster },
+    computed: {
+      getHotels () {
+        return this.$store.getters.getHotels
+      }
+    },
+    created () {
+      this.searchHotels()
+    },
+    methods: {
+      searchHotels () {
+        this.$store.dispatch('searchHotels')
+      }
+    }
   }
 </script>
 
