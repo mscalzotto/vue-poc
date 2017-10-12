@@ -35,3 +35,16 @@ npm i -D node-sass sass-loader
 
 <style lang="scss"> y voilá
 ```
+
+# Backend : Api Restful Node
+
+## Para deployar
+* ejecutar mongoimport --db hotels --collection hotels --file "./server/dump/allresult.json" --jsonArray
+* Ir a "/server"
+* npm install
+* npm start
+* levanta en http://localhost:8081/api/hotels
+agrego unos graficos para entender mejor el flujo de Flux
+
+![Screenshot](doc/diagram-redux.gif)
+![Screenshot](doc/diagram-redux-MW.gif)
