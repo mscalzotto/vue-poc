@@ -1,267 +1,215 @@
-<template>
-<aside class="left-sidebar-wrapper">
-  <!-- Mapa -->
-  <div class="map-wrapper filter-box">
-    <img src="./../assets/result-map.png" />
-    <a class="map-hotels">Ver hoteles en el mapa</a>
-  </div>
-  <div class="filters-wrapper ">
-    <div class="filters-title filter-box">
-      <h2 class="title">Filtrar</h2>
-    </div>
+<template lang="pug">
+  aside.left-sidebar-wrapper
+    .map-wrapper.filter-box
+      img(src="./../assets/result-map.png")
+      a.map-hotels Ver hoteles en el mapa
+    .filters-wrapper
+      .filters.title.filter-box
+        h2.title Filtrar
+      <!-- Filtro por nombre -->
+      .busqueda-nombre.filter-box
+        .filter-title-container
+          a.title
+            i.fa.fa-search(aria-hidden="true")
+            span  Nombre del Hotel
+          a.close-filter-title
+            i.fa.fa-caret-up(aria-hidden="true")
+        input(type="text" placeholder="Ingrese el nombre del hotel")
+        input(type="submit" value="Aceptar")
 
-    <!-- Filtro por nombre -->
-    <div class="busqueda-nombre filter-box">
-      <div class="filter-title-container">
-        <a class="title">
-          <i class="fa fa-search" aria-hidden="true"></i>
-           Nombre del hotel
-        </a>
-        <a class="close-filter-title">
-          <i class="fa fa-caret-up" aria-hidden="true"></i>
-        </a>
-      </div>
-      <input type="text" placeholder="Ingrese el nombre del hotel" />
-      <input type="submit" value="Aceptar" />
-    </div>
+      <!-- Slider -->
+      .price-slider.filter-box
+        .filter-title-container
+          a.title $ Precio por noche
+          a.close-filter-title
+            i.fa.fa-caret-up(aria-hidden="true")
+        .slider-range
+          vue-slider(v-model="value")
 
-    <!-- Slider -->
-    <div class="price-slider filter-box">
-      <div class="filter-title-container">
-        <a class="title">
-          $ Precio por noche
-        </a>
-        <a class="close-filter-title">
-          <i class="fa fa-caret-up" aria-hidden="true"></i>
-        </a>
-      </div>
-      <div id="slider-range"></div>
-      <div class="price-range">
-        <span class="price-b"></span>
-        <span class="price-a"></span>
-      </div>
-    </div>
+      <!-- Filtro por estrellas -->
+      .stars-filter.filter-box
+        .filter-title-container
+          a.title
+            i.fa.fa-star(aria-hidden="true")
+            span  Estrellas
+          a.close-filter-title
+            i.fa.fa-caret-up(aria-hidden="true")
+        .stars-container
+          ul
+            li
+              label(for="all-stars")
+                input#all.all-stars(type="checkbox" checked="checked")
+                span.stars-text
+                strong Todas las estrellas (12)
+            li
+              label(for="five-stars")
+                input.all#five-stars(type="checkbox")
+                span.stars-text
+                  i.fa.fa-star.yellow(aria-hidden="true")
+                  i.fa.fa-star.yellow(aria-hidden="true")
+                  i.fa.fa-star.yellow(aria-hidden="true")
+                  i.fa.fa-star.yellow(aria-hidden="true")
+                  i.fa.fa-star.yellow(aria-hidden="true")
+            li
+              label(for="four-stars")
+                input.all#four-stars(type="checkbox")
+                span.stars-text
+                  i.fa.fa-star.yellow(aria-hidden="true")
+                  i.fa.fa-star.yellow(aria-hidden="true")
+                  i.fa.fa-star.yellow(aria-hidden="true")
+                  i.fa.fa-star.yellow(aria-hidden="true")
+            li
+              label(for="three-stars")
+                input.all#three-stars(type="checkbox")
+                span.stars-text
+                  i.fa.fa-star.yellow(aria-hidden="true")
+                  i.fa.fa-star.yellow(aria-hidden="true")
+                  i.fa.fa-star.yellow(aria-hidden="true")
+            li
+              label(for="two-stars")
+                input.all#two-stars(type="checkbox")
+                span.stars-text
+                  i.fa.fa-star.yellow(aria-hidden="true")
+                  i.fa.fa-star.yellow(aria-hidden="true")
+            li
+              label(for="one-stars")
+                input.all#one-stars(type="checkbox")
+                span.stars-text
+                  i.fa.fa-star.yellow(aria-hidden="true")
 
-    <!-- Filtro por estrellas -->
-    <div class="stars-filter filter-box">
-      <div class="filter-title-container">
-        <a class="title">
-          <i class="fa fa-star" aria-hidden="true"></i>
-           Estrellas
-        </a>
-        <a class="close-filter-title">
-          <i class="fa fa-caret-up" aria-hidden="true"></i>
-        </a>
-      </div>
-      <div class="stars-container">
-        <ul>
-          <li>
-            <label for="all-stars">
-              <input type="checkbox" checked="checked" class="all" id="all-stars" />
-              <span class="stars-text"><strong>Todas las estrellas (12)</strong></span>
-            </label>
-          </li>
-          <li>
-            <label for="five-stars">
-              <input type="checkbox" class="all" id="five-stars" />
-              <span class="stars-text">
-                <i class="fa fa-star yellow" aria-hidden="true"></i>
-                <i class="fa fa-star yellow" aria-hidden="true"></i>
-                <i class="fa fa-star yellow" aria-hidden="true"></i>
-                <i class="fa fa-star yellow" aria-hidden="true"></i>
-                <i class="fa fa-star yellow" aria-hidden="true"></i>
-              </span>
-            </label>
-          </li>
-          <li>
-            <label for="four-stars">
-              <input type="checkbox" class="all" id="four-stars" />
-              <span class="stars-text">
-                <i class="fa fa-star yellow" aria-hidden="true"></i>
-                <i class="fa fa-star yellow" aria-hidden="true"></i>
-                <i class="fa fa-star yellow" aria-hidden="true"></i>
-                <i class="fa fa-star yellow" aria-hidden="true"></i>
-              </span>
-            </label>
-          </li>
-          <li>
-            <label for="three-stars">
-              <input type="checkbox" class="all" id="three-stars" />
-              <span class="stars-text">
-                <i class="fa fa-star yellow" aria-hidden="true"></i>
-                <i class="fa fa-star yellow" aria-hidden="true"></i>
-                <i class="fa fa-star yellow" aria-hidden="true"></i>
-              </span>
-            </label>
-          </li>
-          <li>
-            <label for="two-stars">
-              <input type="checkbox" class="all" id="two-stars" />
-              <span class="stars-text">
-                <i class="fa fa-star yellow" aria-hidden="true"></i>
-                <i class="fa fa-star yellow" aria-hidden="true"></i>
-              </span>
-            </label>
-          </li>
-          <li>
-            <label for="one-stars">
-              <input type="checkbox" class="all" id="one-stars" />
-              <span class="stars-text">
-                <i class="fa fa-star yellow" aria-hidden="true"></i>
-              </span>
-            </label>
-          </li>
-        </ul>
-      </div>
-    </div>
+      <!-- Filtro por regímenes -->
+      .mealplan-slider.filter-box
+        .filter-title-container
+          a.title
+            i.fa.fa-cutlery(aria-hidden="true")
+            span  Regímenes
+          a.close-filter-title
+            i.fa.fa-caret-up(aria-hidden="true")
+        .mealplan-container
+          ul
+            li
+              label(for="all-mealplan")
+                input.class#all-mealplan(type="checkbox")
+                span.mealplan-text Todos los regímenes
+            li
+              label(for="bed-breakfast-mealplan")
+                input.all#bed-breakfast-mealplan(type="checkbox")
+                span.mealplan-text Cama y desayuno
+            li
+              label(for="only-room-mealplan")
+                input.all#only-room-mealplan(type="checkbox")
+                span.mealplan-text Sólo la habitación
+            li
+              label(for="breakfast-full-mealplan")
+                input.all#breakfast-full-mealplan(type="checkbox")
+                span.mealplan-text Desayuno completo
+            li
+              label(for="breakfast-mealplan")
+                input.all#breakfast-mealplan(type="checkbox")
+                span.mealplan-text Desayuno
 
-    <!-- Filtro por regímenes -->
-    <div class="mealplan-slider filter-box">
-      <div class="filter-title-container">
-        <a class="title">
-          <i class="fa fa-cutlery" aria-hidden="true"></i>
-           Regímenes
-        </a>
-        <a class="close-filter-title">
-          <i class="fa fa-caret-up" aria-hidden="true"></i>
-        </a>
-      </div>
-      <div class="mealplan-container">
-        <ul>
-          <li>
-            <label for="all-mealplan">
-              <input type="checkbox" class="all" id="all-mealplan" />
-              <span class="mealplan-text">Todos los regímenes</span>
-            </label>
-          </li>
-          <li>
-            <label for="bed-breakfast-mealplan">
-              <input type="checkbox" class="all" id="bed-breakfast-mealplan" />
-              <span class="mealplan-text">Cama y desayuno</span>
-            </label>
-          </li>
-          <li>
-            <label for="only-room-mealplan">
-              <input type="checkbox" class="all" id="only-room-mealplan" />
-              <span class="mealplan-text">Sólo la habitación</span>
-            </label>
-          </li>
-          <li>
-            <label for="breakfast-full-mealplan">
-              <input type="checkbox" class="all" id="breakfast-full-mealplan" />
-              <span class="mealplan-text">Desayuno completo</span>
-            </label>
-          </li>
-          <li>
-            <label for="breakfast-mealplan">
-              <input type="checkbox" class="all" id="breakfast-mealplan" />
-              <span class="mealplan-text">Desayuno</span>
-            </label>
-          </li>
-        </ul>
-      </div>
-    </div>
+      <!-- Filtro por medio de pago -->
+      .payment-type.filter-box
+        .filter-title-container
+          a.title
+            i.fa.fae-wallet(aria-hidden="true")
+            span Tipo de pago
+          a.close-filter-title
+            i.fa.fa-caret-up(aria-hidden="true")
+        .slider
+          ul
+            li
+              label(for="all-payment")
+                input.all#all-payment(type="checkbox")
+                span.payment-text Todos los métodos de pago
+            li
+              label(for="destiny-payment")
+                input.all#destiny-payment(type="checkbox")
+                span.payment-text Pagá en destino
+            li
+              label(for="quotas-payment")
+                input.all#quotas-payment(type="checkbox")
+                span.payment-text Pagá en cuotas
 
-    <!-- Filtro por medio de pago -->
-    <div class="payment-type filter-box">
-      <div class="filter-title-container">
-        <a class="title">
-          <i class="fa fae-wallet" aria-hidden="true"></i>
-          Tipo de pago
-        </a>
-        <a class="close-filter-title">
-          <i class="fa fa-caret-up" aria-hidden="true"></i>
-        </a>
-      </div>
-      <div class="slider">
-        <ul>
-          <li>
-            <label for="all-payment">
-              <input type="checkbox" class="all" id="all-payment" />
-              <span class="payment-text">Todos los métodos de pago</span>
-            </label>
-          </li>
-          <li>
-            <label for="destiny-payment">
-              <input type="checkbox" class="all" id="destiny-payment" />
-              <span class="payment-text">Pagá en destino</span>
-            </label>
-          </li>
-          <li>
-            <label for="quotas-payment">
-              <input type="checkbox" class="all" id="quotas-payment" />
-              <span class="payment-text">Pagá en cuotas</span>
-            </label>
-          </li>
-        </ul>
-      </div>
-    </div>
+      <!-- Filtro por servicios -->
+      .service-filter.filter-box
+        .filter-title-container
+          a.title
+            i.fa.fa-tag(aria-hidden="true")
+            span Servicios
+          a.close-filter-title
+            i.fa.fa-caret-up(aria-hidden="true")
+        .slider
+          ul
+            li
+              label(for="all-service")
+                input#all-service.all(type="checkbox")
+                span.service-text Todos los servicios
+            li
+              label(for="internet-service")
+                input#internet-service.all(type="checkbox")
+                span.service-text
+                  i.fa.fa-wifi(aria-hidden="true")
+                  span  Internet
+            li
+              label(for="air-service")
+                input#air-service.all(type="checkbox")
+                span.service-text
+                  i.fa.fa-snowflake-o(aria-hidden="true")
+                  span  Aire acondicionado
+            li
+              label(for="bar-service")
+                input#bar-service.all(type="checkbox")
+                span.service-text
+                  i.fa.fa-glass(aria-hidden="true")
+                  span  Bar
 
-    <!-- Filtro por servicios -->
-    <div class="service-filter filter-box">
-      <div class="filter-title-container">
-        <a class="title">
-          <i class="fa fa-tag" aria-hidden="true"></i>
-          Servicios
-        </a>
-        <a class="close-filter-title">
-          <i class="fa fa-caret-up" aria-hidden="true"></i>
-        </a>
-      </div>
-      <div class="slider">
-        <ul>
-          <li>
-            <label for="all-service">
-              <input type="checkbox" class="all" id="all-service" />
-              <span class="service-text">Todos los servicios</span>
-            </label>
-          </li>
-          <li>
-            <label for="internet-service">
-              <input type="checkbox" class="all" id="internet-service" />
-              <span class="service-text">
-                <i class="fa fa-wifi" aria-hidden="true"></i>
-                Internet</span>
-            </label>
-          </li>
-          <li>
-            <label for="air-service">
-              <input type="checkbox" class="all" id="air-service" />
-              <span class="service-text">
-                <i class="fa fa-snowflake-o" aria-hidden="true"></i>
-                Aire acondicionado</span>
-            </label>
-          </li>
-          <li>
-            <label for="bar-service">
-              <input type="checkbox" class="all" id="bar-service" />
-              <span class="service-text">
-                <i class="fa fa-glass" aria-hidden="true"></i>
-                Bar</span>
-            </label>
-          </li>
-          <li>
-            <a class="view-more">Ver más
-                <i class="fa fa-caret-down" aria-hidden="true"></i>
-            </a>
-          </li>
-        </ul>
-      </div>
-    </div>
-
-  </div>
-</aside>
+            li
+              a.view-more Ver más
+                i.fa.fa-caret-down(aria-hidden="true")
 </template>
 
 <script>
+  import vueSlider from 'vue-slider-component'
+
   export default {
     name: 'Filters',
     template: '<Filters/>',
-    props: []
+    components: {
+      vueSlider
+    },
+    data: function () {
+      return {
+        value: [
+          0,
+          100
+        ],
+        width: '50%',
+        height: 8,
+        dotSize: 16,
+        min: 0,
+        max: 500,
+        disabled: false,
+        show: true,
+        tooltip: 'always',
+        formatter: '',
+        bgStyle: {
+          'backgroundColor': '#fff',
+          'boxShadow': 'inset 0.5px 0.5px 3px 1px rgba(0,0,0,.36)'
+        },
+        tooltipStyle: {
+          'backgroundColor': '#666',
+          'borderColor': '#666'
+        },
+        processStyle: {
+          'backgroundColor': '#999'
+        }
+      }
+    }
   }
 </script>
 
-<style >
+<style>
 .yellow {
   color: #fdba12;
 }

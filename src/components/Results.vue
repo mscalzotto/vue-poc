@@ -1,6 +1,5 @@
 <template>
   <div id="search-results">
-    <p>Listado de resultados</p>
     <cluster ></cluster>
   </div>
 </template>

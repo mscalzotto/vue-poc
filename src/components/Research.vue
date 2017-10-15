@@ -47,7 +47,7 @@
   }
 </script>
 
-<style>
+<style scoped>
 .search-summary {
   border: 1px solid #ccc;
   font-family: roboto_regular, sans-serif;
