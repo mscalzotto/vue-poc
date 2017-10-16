@@ -12,16 +12,15 @@
     <div class='hotel-data'>
       <h2 class='name'>{{hotel.name}}</h2>
       <p class='stars'>
-        <p class='stars'>
-          <span v-for='i in getStars(hotel.stars)' :key='i'>
-            <i class='fa fa-star yellow' aria-hidden='true'></i>
-          </span>
-        </p>
+        <span v-for='i in getStars(hotel.stars)' :key='i'>
+          <i class='fa fa-star yellow' aria-hidden='true'></i>
+        </span>
       </p>
-      <p class='mealplan'>
-        {{ hotel.amenities }}
-        <i class='' aria-hidden='true'></i>
+      <p class='mealplan'>{{hotel.mealPlan}}</p>
+      <p class='amenities' v-for='amenity in hotel.amenities'>
+        <i v-bind:class='mapHotelAmenities(amenity)' aria-hidden='true'></i>
       </p>
+
     </div>
 
     <div class='hotel-price'>
@@ -53,6 +52,36 @@
     filters: {
       round: function (number) {
         return Math.floor(number)
+      }
+    },
+    computed: {
+      mapHotelAmenities: function (amenity) {
+        return function (amenity) {
+          switch (amenity) {
+            case 'bar':
+              return 'fa fa-glass'
+            case 'wifi':
+              return 'fa fa-wifi'
+            case 'ac':
+              return 'fa fa-snowflake-o'
+            case 'business':
+              return 'fa fa-suitcase'
+            case 'tv':
+              return 'fa fa-television'
+            case 'pool':
+              return 'fa fa-gamepad'
+            case 'coffee':
+              return 'fa fa-coffee'
+            case 'checkin':
+              return 'fa fa-shopping-bag'
+            case 'cleaning':
+              return 'fa fa-shower'
+            case 'gym':
+              return 'fa fa-soccer-ball-o'
+            default:
+              return ''
+          }
+        }
       }
     }
   }
@@ -140,6 +169,21 @@
     color: #df6800;
     font-weight: bold;
     font-size: 14px;
+  }
+
+  .hotels .hotel-cluster .hotel-data .mealplan i {
+    margin-right: 5px;
+  }
+
+  .hotels .hotel-cluster .hotel-data .amenities {
+    color: #000;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 14px;
+  }
+
+  .hotels .hotel-cluster .hotel-data .amenities i {
+    margin-right: 5px;
   }
 
   .hotels .hotel-cluster .hotel-price {

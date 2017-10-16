@@ -3,7 +3,7 @@
     collapse( :selected="true")
       .filter-title-container(slot="collapse-header")
         a.title
-          i.fa.fa-google-wallet(aria-hidden="true")
+          i.fa.fa-money(aria-hidden="true")
           span Tipo de pago
       .slider(slot="collapse-body")
         ul
