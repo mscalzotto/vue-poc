@@ -21,5 +21,12 @@ export default {
   [types.FETCH_HOTELS_FAILURE] (state, { error }) {
     state.fetchingData = false
     state.error = error
+  },
+
+  [types.UPDATE_FILTER_NAME] (state, { name }) {
+    state.filters.name = name
+  },
+  [types.UPDATE_FILTER_STARS] (state, { stars }) {
+    state.filters.star = stars
   }
 }

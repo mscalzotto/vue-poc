@@ -12,7 +12,7 @@
 <script>
 import { mapState, mapActions } from 'vuex'
 import Breadcrumb from '@/components/Breadcrumb'
-import Filters from '@/components/Filters'
+import Filters from '@/components/filters/Filters'
 import Research from '@/components/Research'
 import Results from '@/components/Results'
 export default {

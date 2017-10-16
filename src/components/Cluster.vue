@@ -1,7 +1,5 @@
 <template>
-  <div>
-  <li class='hotel-cluster' v-for='(hotel, index) in results'
-     :key='index'>
+  <li class='hotel-cluster'>
     <div class='carousel'>
       <div class='gift' v-if='hotel.price.discount > 0'>
         <span>50% OFF</span>
@@ -15,7 +13,7 @@
       <h2 class='name'>{{hotel.name}}</h2>
       <p class='stars'>
         <p class='stars'>
-          <span v-for='i in getStars(hotel.stars)'>
+          <span v-for='i in getStars(hotel.stars)' :key='i'>
             <i class='fa fa-star yellow' aria-hidden='true'></i>
           </span>
         </p>
@@ -38,20 +36,15 @@
       <p class='payment-extra'>Pagá en destino</p>
     </div>
   </li>
-  </div>
 </template>
 
 <script>
-  import { mapState } from 'vuex'
-
   export default {
     name: 'Cluster',
-    template: '<Cluster/>',
-    computed: {
-      ...mapState([
-        'results'
-      ])
+    props: {
+      hotel: Object
     },
+    template: '<Cluster/>',
     methods: {
       getStars (stars) {
         return new Array(stars)

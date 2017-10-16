@@ -10,5 +10,11 @@ export default {
         commit(types.FETCH_HOTELS_SUCCESS, { hotels })
       })
       .catch(error => commit(types.FETCH_HOTELS_FAILURE, { error }))
+  },
+  updateFilterName ({ commit }, { name }) {
+    commit(types.UPDATE_FILTER_NAME, {name})
+  },
+  updateFilterStars ({ commit }, { stars }) {
+    commit(types.UPDATE_FILTER_STARS, {stars})
   }
 }

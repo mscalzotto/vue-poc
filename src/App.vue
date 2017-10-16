@@ -7,8 +7,8 @@
 </template>
 
 <script>
-  import AmHeader from '@/components/AmHeader'
-  import AmFooter from '@/components/AmFooter'
+  import AmHeader from '@/components/commons/AmHeader'
+  import AmFooter from '@/components/commons/AmFooter'
 
   export default {
     name: 'app',
@@ -17,7 +17,9 @@
 </script>
 
 <style>
-
+body{
+  margin: 0;
+}
 /*!
  *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
  *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)

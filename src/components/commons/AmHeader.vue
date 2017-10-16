@@ -5,7 +5,7 @@
         <div class="header-container">
 
           <div class="logo">
-            <img src="./../assets/header/logo.svg" />
+            <img src="./../../assets/header/logo.svg" />
           </div>
 
           <ul class="sub-menu">
@@ -14,7 +14,7 @@
               <a>Ingresar</a>
             </li>
             <li class="club-almundo">
-              <a><img src="./../assets/header/logo-clubalmundo.svg" /></a>
+              <a><img src="./../../assets/header/logo-clubalmundo.svg" /></a>
             </li>
             <li class="sucursales">
               <a>Sucursales</a>
@@ -61,9 +61,9 @@
 
 <style lang="scss" scoped>
 .header {
-  background-image: url('./../assets/header/header-bg.jpg');
+  background-image: url('./../../assets/header/header-bg.jpg');
   background-size: cover;
-  
+
   .header-background {
     background: rgba(0,44,119,0.7);
   }
@@ -112,7 +112,7 @@
   }
 
   .sub-header-container {
-    background-image: url('./../assets/header/header-bg.jpg');
+    background-image: url('./../../assets/header/header-bg.jpg');
     margin: 0 auto;
 
     .main-menu {

@@ -1,6 +1,6 @@
 export default {
-  getFilters: state => {
-    return state.filters
+  getFilterName: state => {
+    return state.filters.name
   },
   getHotels: (state) => {
     return state.results

@@ -1,17 +1,23 @@
 <template>
-  <div id="search-results">
-    <cluster ></cluster>
-  </div>
+  <ul id="search-results">
+    <cluster :hotel="hotel" v-for='(hotel, index) in results' :key='index'></cluster>
+  </ul>
 </template>
 
 <script>
-  import Cluster from './Cluster'
+import { mapState } from 'vuex'
+import Cluster from './Cluster'
 
-  export default {
-    name: 'Results',
-    template: '<Results/>',
-    components: { Cluster }
+export default {
+  name: 'Results',
+  template: '<Results/>',
+  components: { Cluster },
+  computed: {
+    ...mapState([
+      'results'
+    ])
   }
+}
 </script>
 
 <style scoped>
