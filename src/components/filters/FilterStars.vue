@@ -76,14 +76,14 @@ export default {
   },
   methods: {
     applyFilter: function () {
-      let stars = []
+      let star = []
       Object.keys(this.starsChecks)
       .forEach((key) => {
         if (this.starsChecks[key]) {
-          stars.push(parseInt(key))
+          star.push(parseInt(key))
         }
       })
-      this.updateFilterStars({stars})
+      this.updateFilterStars({star})
       this.loadHotels({filters: this.filters})
     },
     ...mapActions([

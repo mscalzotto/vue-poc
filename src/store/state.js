@@ -8,6 +8,7 @@ export default {
     limit: 20,
     offset: 0,
     price_range: {
+      value: [0, 4000],
       max: 5000,
       min: 50,
       change: false,

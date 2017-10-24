@@ -14,7 +14,10 @@ export default {
   updateFilterName ({ commit }, { name }) {
     commit(types.UPDATE_FILTER_NAME, {name})
   },
-  updateFilterStars ({ commit }, { stars }) {
-    commit(types.UPDATE_FILTER_STARS, {stars})
+  updateFilterStars ({ commit }, { star }) {
+    commit(types.UPDATE_FILTER_STARS, {star})
+  },
+  updateFilterPrice ({ commit }, { min, max, value }) {
+    commit(types.UPDATE_FILTER_PRICE, {min, max, value})
   }
 }

@@ -26,7 +26,13 @@ export default {
   [types.UPDATE_FILTER_NAME] (state, { name }) {
     state.filters.name = name
   },
-  [types.UPDATE_FILTER_STARS] (state, { stars }) {
-    state.filters.star = stars
+  [types.UPDATE_FILTER_STARS] (state, { star }) {
+    state.filters.star = star
+  },
+  [types.UPDATE_FILTER_PRICE] (state, { min, max, value }) {
+    state.filters.price_range.max = max
+    state.filters.price_range.min = min
+    state.filters.price_range.value = value
+    state.filters.price_range.change = true
   }
 }

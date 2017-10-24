@@ -6,7 +6,7 @@
           i.fa.fa-dollar(aria-hidden="true")
           span  Precio por noche
       .slider-range(slot="collapse-body")
-          vue-slider(v-model="value")
+          vue-slider(v-model="value" :max="max" :min="min" @drag-end="applyFilter" )
 
 </template>
 <script>
@@ -14,18 +14,15 @@ import { mapState, mapActions } from 'vuex'
 import Collapse from '@/components/commons/Collapse'
 import vueSlider from 'vue-slider-component'
 export default {
-  name: 'filter-name',
+  name: 'filter-price',
   data () {
     return {
-      value: [
-        0,
-        100
-      ],
+      data: [],
       width: '50%',
       height: 8,
       dotSize: 16,
-      min: 0,
-      max: 500,
+      min: this.$store.state.filters.price_range.min,
+      max: this.$store.state.filters.price_range.max,
       disabled: false,
       show: true,
       tooltip: 'always',
@@ -50,15 +47,23 @@ export default {
   computed: {
     ...mapState([
       'filters'
-    ])
+    ]),
+    value: {
+      get () {
+        return this.$store.state.filters.price_range.value
+      },
+      set (value) {
+        this.data = value
+      }
+    }
   },
   methods: {
     applyFilter: function () {
-      this.updateFilterName({name: this.name})
+      this.updateFilterPrice({min: this.min, max: this.max, value: this.data})
       this.loadHotels({filters: this.filters})
     },
     ...mapActions([
-      'updateFilterName',
+      'updateFilterPrice',
       'loadHotels'
     ])
   }

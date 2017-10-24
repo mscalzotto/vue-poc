@@ -8,11 +8,11 @@ export const filtersToString = (filters, callApi) => {
   if (filters.name) {
     params.append('name', filters.name)
   }
-  if (filters.star.length > 0) {
+  if (filters.star && filters.star.length > 0) {
     params.append('star', filters.star)
   }
   if (filters.price_range.change) {
-    params.append('price_range', `${filters.price_range.min}-${filters.price_range.max}`)
+    params.append('price_range', `${filters.price_range.value[0]}-${filters.price_range.value[1]}`)
   }
   return params.toString()
 }
