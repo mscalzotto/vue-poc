@@ -6,6 +6,7 @@
   <ul class="hotels">
     <results></results>
   </ul>
+  <x-angular-poc contents="Hola, soy un web component"></x-angular-poc>
 </section>
 </template>
 
@@ -15,6 +16,7 @@ import Breadcrumb from '@/components/Breadcrumb'
 import Filters from '@/components/filters/Filters'
 import Research from '@/components/Research'
 import Results from '@/components/Results'
+
 export default {
   name: 'home',
   components: {

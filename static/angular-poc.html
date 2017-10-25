@@ -1,0 +1,66 @@
+<template id="x-angular-poc">
+    
+    <style>
+        p {
+        color: #002C77;
+        }
+    </style>
+    <!-- <p id="renderTarget"></p> -->
+    <div id="angularPoc" ng-app="myApp">
+        <div ng-controller="AppController">
+            <my-app-component name="Fer"></my-app-component>
+        </div>
+    </div>
+    
+    <script>
+        var myApp = angular.module('myApp', [])
+        .controller('AppController', ['CompController', function(){}])
+        .component('myAppComponent', {
+            controller: 'CompController',
+            bindings: {
+                name: '='
+            },
+            template: '<div><p>Hola {{name}}</p></div>'
+        })
+        function CompController () {
+        };
+        
+    </script>
+</template>
+
+<script>
+    
+const currentScript = document.currentScript;
+
+customElements.define('x-angular-poc', class AngularPoc extends HTMLElement {
+    static get observedAttributes() { return ['contents'] }
+
+    constructor() {
+        super();
+        let shadowRoot = this.attachShadow({mode: 'open'});
+        const template = currentScript.ownerDocument.querySelector('#x-angular-poc');
+        const instance = template.content.cloneNode(true);
+        shadowRoot.appendChild(instance);
+
+        this.contents = '';
+
+        setInterval(() => {
+                this.dispatchEvent(new Event('tick'));
+            }, 500);
+        }
+
+        set contents(value) {
+            this._contents = value;
+            // this.shadowRoot.getElementById('renderTarget').innerText = this._contents;
+            // this.shadowRoot.getElementById('angularPoc').createElement('script')
+        }
+
+        get contents() {
+            return this._contents;
+        }
+
+        attributeChangedCallback(name, oldValue, newValue) {
+            this[name] = newValue;
+        }
+});
+</script>
