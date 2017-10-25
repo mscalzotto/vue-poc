@@ -21,8 +21,6 @@ export default {
       width: '50%',
       height: 8,
       dotSize: 16,
-      min: this.$store.state.filters.price_range.min,
-      max: this.$store.state.filters.price_range.max,
       disabled: false,
       show: true,
       tooltip: 'always',
@@ -55,6 +53,22 @@ export default {
       set (value) {
         this.data = value
       }
+    },
+    min: {
+      get () {
+        return this.$store.state.filters.price_range.min
+      },
+      set (value) {
+        this.min = value
+      }
+    },
+    max: {
+      get () {
+        return this.$store.state.filters.price_range.max
+      },
+      set (value) {
+        this.max = value
+      }
     }
   },
   methods: {
@@ -67,7 +81,6 @@ export default {
       'loadHotels'
     ])
   }
-
 }
 </script>
 

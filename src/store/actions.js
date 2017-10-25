@@ -8,6 +8,19 @@ export default {
     service.fetchHotels(filters)
       .then(hotels => {
         commit(types.FETCH_HOTELS_SUCCESS, { hotels })
+        let min = Number.POSITIVE_INFINITY
+        let max = Number.NEGATIVE_INFINITY
+        hotels.docs.map((hotel) => {
+          if (hotel.price.amount > max) {
+            max = Math.round(hotel.price.amount)
+          }
+          if (hotel.price.amount < min) {
+            min = Math.round(hotel.price.amount)
+          }
+        })
+        if (!filters.price_range.change) {
+          commit(types.UPDATE_FILTER_PRICE, {min, max, value: [min, max]})
+        }
       })
       .catch(error => commit(types.FETCH_HOTELS_FAILURE, { error }))
   },
